@@ -1,0 +1,3945 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.8.9)  5 NOV 2020 21:49
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**TemplateBeamer.tex
+(./TemplateBeamer.tex
+LaTeX2e <2017-04-15>
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamer.cls
+Document Class: beamer 2018/02/20 v3.50 A class for typesetting presentations
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasemodes.sty
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2018/02/11 v2.5e e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count79
+)
+\beamer@tempbox=\box26
+\beamer@tempcount=\count80
+\c@beamerpauses=\count81
+
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasedecode.sty
+\beamer@slideinframe=\count82
+\beamer@minimum=\count83
+)
+\beamer@commentbox=\box27
+\beamer@modecount=\count84
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+\headdp=\dimen102
+\footheight=\dimen103
+\sidebarheight=\dimen104
+\beamer@tempdim=\dimen105
+\beamer@finalheight=\dimen106
+\beamer@animht=\dimen107
+\beamer@animdp=\dimen108
+\beamer@animwd=\dimen109
+\beamer@leftmargin=\dimen110
+\beamer@rightmargin=\dimen111
+\beamer@leftsidebar=\dimen112
+\beamer@rightsidebar=\dimen113
+\beamer@boxsize=\dimen114
+\beamer@vboxoffset=\dimen115
+\beamer@descdefault=\dimen116
+\beamer@descriptionwidth=\dimen117
+\beamer@lastskip=\skip41
+\beamer@areabox=\box28
+\beamer@animcurrent=\box29
+\beamer@animshowbox=\box30
+\beamer@sectionbox=\box31
+\beamer@logobox=\box32
+\beamer@linebox=\box33
+\beamer@sectioncount=\count85
+\beamer@subsubsectionmax=\count86
+\beamer@subsectionmax=\count87
+\beamer@sectionmax=\count88
+\beamer@totalheads=\count89
+\beamer@headcounter=\count90
+\beamer@partstartpage=\count91
+\beamer@sectionstartpage=\count92
+\beamer@subsectionstartpage=\count93
+\beamer@animationtempa=\count94
+\beamer@animationtempb=\count95
+\beamer@xpos=\count96
+\beamer@ypos=\count97
+\beamer@ypos@offset=\count98
+\beamer@showpartnumber=\count99
+\beamer@currentsubsection=\count100
+\beamer@coveringdepth=\count101
+\beamer@sectionadjust=\count102
+\beamer@tocsectionnumber=\count103
+
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseoptions.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+))
+\beamer@paperwidth=\skip42
+\beamer@paperheight=\skip43
+
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count104
+\Gm@cntv=\count105
+\c@Gm@tempcnt=\count106
+\Gm@bindingoffset=\dimen118
+\Gm@wd@mp=\dimen119
+\Gm@odd@mp=\dimen120
+\Gm@even@mp=\dimen121
+\Gm@layoutwidth=\dimen122
+\Gm@layoutheight=\dimen123
+\Gm@layouthoffset=\dimen124
+\Gm@layoutvoffset=\dimen125
+\Gm@dimlist=\toks15
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen126
+\Gin@req@width=\dimen127
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks16
+\pgfutil@tempdima=\dimen128
+\pgfutil@tempdimb=\dimen129
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.t
+ex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box34
+(/usr/share/texlive/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks17
+\pgfkeys@temptoks=\toks18
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.t
+ex
+\pgfkeys@tmptoks=\toks19
+))
+\pgf@x=\dimen130
+\pgf@y=\dimen131
+\pgf@xa=\dimen132
+\pgf@ya=\dimen133
+\pgf@xb=\dimen134
+\pgf@yb=\dimen135
+\pgf@xc=\dimen136
+\pgf@yc=\dimen137
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count107
+\c@pgf@countb=\count108
+\c@pgf@countc=\count109
+\c@pgf@countd=\count110
+\t@pgf@toka=\toks20
+\t@pgf@tokb=\toks21
+\t@pgf@tokc=\toks22
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.de
+f
+File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.
+tex
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+\pgfsyssoftpath@smallbuffer@items=\count111
+\pgfsyssoftpath@bigbuffer@items=\count112
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.
+tex
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+)) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen138
+\pgfmath@count=\count113
+\pgfmath@box=\box35
+\pgfmath@toks=\toks23
+\pgfmath@stack@operand=\toks24
+\pgfmath@stack@operation=\toks25
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonomet
+ric.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.cod
+e.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison
+.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerari
+thmetics.code.tex)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count114
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.te
+x
+File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
+\pgf@picminx=\dimen139
+\pgf@picmaxx=\dimen140
+\pgf@picminy=\dimen141
+\pgf@picmaxy=\dimen142
+\pgf@pathminx=\dimen143
+\pgf@pathmaxx=\dimen144
+\pgf@pathminy=\dimen145
+\pgf@pathmaxy=\dimen146
+\pgf@xx=\dimen147
+\pgf@xy=\dimen148
+\pgf@yx=\dimen149
+\pgf@yy=\dimen150
+\pgf@zx=\dimen151
+\pgf@zy=\dimen152
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.
+code.tex
+File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
+\pgf@path@lastx=\dimen153
+\pgf@path@lasty=\dimen154
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code
+.tex
+File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
+\pgf@shorten@end@additional=\dimen155
+\pgf@shorten@start@additional=\dimen156
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.te
+x
+File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
+\pgfpic=\box36
+\pgf@hbox=\box37
+\pgf@layerbox@main=\box38
+\pgf@picture@serial@count=\count115
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.c
+ode.tex
+File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
+\pgflinewidth=\dimen157
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformation
+s.code.tex
+File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
+\pgf@pt@x=\dimen158
+\pgf@pt@y=\dimen159
+\pgf@pt@temp=\dimen160
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.t
+ex
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing
+.code.tex
+File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.te
+x
+File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
+\pgfarrowsep=\dimen161
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
+\pgf@max=\dimen162
+\pgf@sys@shading@range@num=\count116
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.
+tex
+File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
+\pgfexternal@startupbox=\box39
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.te
+x
+File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.c
+ode.tex
+File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.
+tex
+File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
+))) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/xxcolor.sty
+Package: xxcolor 2003/10/24 ver 0.1
+\XC@nummixins=\count117
+\XC@countmixins=\count118
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2018/02/06 v6.86b Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package hobsub Info: Skipping package `atbegshi' (already loaded).
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen163
+\Hy@linkcounter=\count119
+\Hy@pagecounter=\count120
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2018/02/06 v6.86b Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count121
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `bookmarks' set `true' on input line 4383.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 4383.
+Package hyperref Info: Option `implicit' set `false' on input line 4383.
+Package hyperref Info: Hyper figures OFF on input line 4509.
+Package hyperref Info: Link nesting OFF on input line 4514.
+Package hyperref Info: Hyper index ON on input line 4517.
+Package hyperref Info: Plain pages OFF on input line 4524.
+Package hyperref Info: Backreferencing OFF on input line 4529.
+Package hyperref Info: Implicit mode OFF; no redefinition of LaTeX internals.
+Package hyperref Info: Bookmarks ON on input line 4762.
+\c@Hy@tempcnt=\count122
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5115.
+\XeTeXLinkMargin=\dimen164
+\Fld@menulength=\count123
+\Field@Width=\dimen165
+\Fld@charsize=\dimen166
+Package hyperref Info: Hyper figures OFF on input line 6369.
+Package hyperref Info: Link nesting OFF on input line 6374.
+Package hyperref Info: Hyper index ON on input line 6377.
+Package hyperref Info: backreferencing OFF on input line 6384.
+Package hyperref Info: Link coloring OFF on input line 6389.
+Package hyperref Info: Link coloring with OCG OFF on input line 6394.
+Package hyperref Info: PDF/A mode OFF on input line 6399.
+LaTeX Info: Redefining \ref on input line 6439.
+LaTeX Info: Redefining \pageref on input line 6443.
+\Hy@abspage=\count124
+
+
+Package hyperref Message: Stopped early.
+
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2018/02/06 v6.86b Hyperref driver for pdfTeX
+\Fld@listcount=\count125
+\c@bookmark@seq@number=\count126
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaserequires.sty
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasecompatibility.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasefont.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks26
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/sansmathaccent/sansmathaccent.sty
+Package: sansmathaccent 2013/03/28
+
+(/usr/share/texlive/texmf-dist/tex/latex/filehook/filehook.sty
+Package: filehook 2011/10/12 v0.5d Hooks for input files
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetranslator.sty
+(/usr/share/texlive/texmf-dist/tex/latex/translator/translator.sty
+Package: translator 2018/01/04 v1.12 Easy translation of strings in LaTeX
+))
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasemisc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetwoscreens.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseoverlay.sty
+\beamer@argscount=\count127
+\beamer@lastskipcover=\skip44
+\beamer@trivlistdepth=\count128
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetitle.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasesection.sty
+\c@lecture=\count129
+\c@part=\count130
+\c@section=\count131
+\c@subsection=\count132
+\c@subsubsection=\count133
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseframe.sty
+\beamer@framebox=\box40
+\beamer@frametitlebox=\box41
+\beamer@zoombox=\box42
+\beamer@zoomcount=\count134
+\beamer@zoomframecount=\count135
+\beamer@frametextheight=\dimen167
+\c@subsectionslide=\count136
+\beamer@frametopskip=\skip45
+\beamer@framebottomskip=\skip46
+\beamer@frametopskipautobreak=\skip47
+\beamer@framebottomskipautobreak=\skip48
+\beamer@envbody=\toks27
+\framewidth=\dimen168
+\c@framenumber=\count137
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseverbatim.sty
+\beamer@verbatimfileout=\write4
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseframesize.sty
+\beamer@splitbox=\box43
+\beamer@autobreakcount=\count138
+\beamer@autobreaklastheight=\dimen169
+\beamer@frametitletoks=\toks28
+\beamer@framesubtitletoks=\toks29
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseframecomponents.sty
+\beamer@footins=\box44
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasecolor.sty
+\beamer@bg@ht=\dimen170
+\beamer@bg@wd=\dimen171
+\beamer@bg@dp=\dimen172
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasenotes.sty
+\beamer@frameboxcopy=\box45
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetoc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetemplates.sty
+\beamer@sbttoks=\toks30
+
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseauxtemplates.sty
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseboxes.sty
+\bmb@box=\box46
+\bmb@colorbox=\box47
+\bmb@boxshadow=\box48
+\bmb@boxshadowball=\box49
+\bmb@boxshadowballlarge=\box50
+\bmb@temp=\dimen173
+\bmb@dima=\dimen174
+\bmb@dimb=\dimen175
+\bmb@prevheight=\dimen176
+)
+\beamer@blockheadheight=\dimen177
+))
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaselocalstructure.sty
+(/usr/share/texlive/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks31
+)
+\c@figure=\count139
+\c@table=\count140
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasenavigation.sty
+\beamer@section@min@dim=\dimen178
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetheorems.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks32
+\ex@=\dimen179
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen180
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count141
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count142
+\leftroot@=\count143
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count144
+\DOTSCASE@=\count145
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box51
+\strutbox@=\box52
+\big@size=\dimen181
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count146
+\c@MaxMatrixCols=\count147
+\dotsspace@=\muskip11
+\c@parentequation=\count148
+\dspbrk@lvl=\count149
+\tag@help=\toks33
+\row@=\count150
+\column@=\count151
+\maxfields@=\count152
+\andhelp@=\toks34
+\eqnshift@=\dimen182
+\alignsep@=\dimen183
+\tagshift@=\dimen184
+\tagwidth@=\dimen185
+\totwidth@=\dimen186
+\lineht@=\dimen187
+\@envbody=\toks35
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks36
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2017/10/31 v2.20.4
+\thm@style=\toks37
+\thm@bodyfont=\toks38
+\thm@headfont=\toks39
+\thm@notefont=\toks40
+\thm@headpunct=\toks41
+\thm@preskip=\skip54
+\thm@postskip=\skip55
+\thm@headsep=\skip56
+\dth@everypar=\toks42
+)
+\c@theorem=\count153
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasethemes.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerthemedefault.sty
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerfontthemedefault.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamercolorthemedefault.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerinnerthemedefault.sty
+\beamer@dima=\dimen188
+\beamer@dimb=\dimen189
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerouterthemedefault.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count154
+\lst@gtempboxa=\box53
+\lst@token=\toks43
+\lst@length=\count155
+\lst@currlwidth=\dimen190
+\lst@column=\count156
+\lst@pos=\count157
+\lst@lostspace=\dimen191
+\lst@width=\dimen192
+\lst@newlines=\count158
+\lst@lineno=\count159
+\lst@maxwidth=\dimen193
+
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count160
+\lst@skipnumbers=\count161
+\lst@framebox=\box54
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks44
+\inpenc@posthook=\toks45
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/latin1.def
+File: latin1.def 2015/03/17 v1.2c Input encoding file
+))
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2018/02/14 3.18 The Babel package
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2018/02/14 3.18 Babel switching mechanism
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2018/02/14 3.18 Babel common definitions
+\babel@savecnt=\count162
+\U@D=\dimen194
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+LaTeX Info: Redefining \textlatin on input line 1839.
+\bbl@dirlevel=\count163
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+(/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen195
+\WF@size=\dimen196
+\c@WF@wrappedlines=\count164
+\WF@box=\box55
+\WF@everypar=\toks46
+Package: wrapfig 2003/01/31  v 3.6
+)
+(/usr/share/texlive/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip57
+\subfigcapskip=\skip58
+\subfigcaptopadj=\dimen197
+\subfigbottomskip=\skip59
+\subfigcapmargin=\dimen198
+\subfiglabelskip=\skip60
+\c@subfigure=\count165
+\c@lofdepth=\count166
+\c@subtable=\count167
+\c@lotdepth=\count168
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(/usr/share/texlive/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip61
+\subfig@bottom=\skip62
+)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count169
+\float@exts=\toks47
+\float@box=\box56
+\@float@everytoks=\toks48
+\@floatcapt=\box57
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2017/04/05 v2.0i Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks49
+\verbatim@line=\toks50
+\verbatim@in@stream=\read2
+)
+(/usr/share/texlive/texmf-dist/tex/latex/version/version.sty
+Package: version 2009/09/15  v 2.0
+Package version Info: Excluding comment environments declared on input line 115
+.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/multimedia.sty
+Package: multimedia 2012/05/02 ver 0.02
+\mm@movie=\count170
+)
+(/usr/share/texlive/texmf-dist/tex/latex/media9/media9.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2018/02/21 L3 programming layer (loader) 
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+Package: expl3 2018/02/21 L3 programming layer (code)
+\c_max_int=\count171
+\l_tmpa_int=\count172
+\l_tmpb_int=\count173
+\g_tmpa_int=\count174
+\g_tmpb_int=\count175
+\g__intarray_font_int=\count176
+\g__prg_map_int=\count177
+\c_log_iow=\count178
+\l_iow_line_count_int=\count179
+\l__iow_line_target_int=\count180
+\l__iow_one_indent_int=\count181
+\l__iow_indent_int=\count182
+\c_zero_dim=\dimen199
+\c_max_dim=\dimen256
+\l_tmpa_dim=\dimen257
+\l_tmpb_dim=\dimen258
+\g_tmpa_dim=\dimen259
+\g_tmpb_dim=\dimen260
+\c_zero_skip=\skip63
+\c_max_skip=\skip64
+\l_tmpa_skip=\skip65
+\l_tmpb_skip=\skip66
+\g_tmpa_skip=\skip67
+\g_tmpb_skip=\skip68
+\c_zero_muskip=\muskip12
+\c_max_muskip=\muskip13
+\l_tmpa_muskip=\muskip14
+\l_tmpb_muskip=\muskip15
+\g_tmpa_muskip=\muskip16
+\g_tmpb_muskip=\muskip17
+\l_keys_choice_int=\count183
+\c__fp_leading_shift_int=\count184
+\c__fp_middle_shift_int=\count185
+\c__fp_trailing_shift_int=\count186
+\c__fp_big_leading_shift_int=\count187
+\c__fp_big_middle_shift_int=\count188
+\c__fp_big_trailing_shift_int=\count189
+\c__fp_Bigg_leading_shift_int=\count190
+\c__fp_Bigg_middle_shift_int=\count191
+\c__fp_Bigg_trailing_shift_int=\count192
+\c__fp_rand_size_int=\count193
+\c__fp_rand_four_int=\count194
+\c__fp_rand_eight_int=\count195
+\l__sort_length_int=\count196
+\l__sort_min_int=\count197
+\l__sort_top_int=\count198
+\l__sort_max_int=\count199
+\l__sort_true_max_int=\count266
+\l__sort_block_int=\count267
+\l__sort_begin_int=\count268
+\l__sort_end_int=\count269
+\l__sort_A_int=\count270
+\l__sort_B_int=\count271
+\l__sort_C_int=\count272
+\l__tl_build_start_index_int=\count273
+\l__tl_build_index_int=\count274
+\l__tl_analysis_normal_int=\count275
+\l__tl_analysis_index_int=\count276
+\l__tl_analysis_nesting_int=\count277
+\l__tl_analysis_type_int=\count278
+\l__regex_internal_a_int=\count279
+\l__regex_internal_b_int=\count280
+\l__regex_internal_c_int=\count281
+\l__regex_balance_int=\count282
+\l__regex_group_level_int=\count283
+\l__regex_mode_int=\count284
+\c__regex_cs_in_class_mode_int=\count285
+\c__regex_cs_mode_int=\count286
+\l__regex_catcodes_int=\count287
+\l__regex_default_catcodes_int=\count288
+\c__regex_catcode_D_int=\count289
+\c__regex_catcode_S_int=\count290
+\c__regex_catcode_L_int=\count291
+\c__regex_catcode_O_int=\count292
+\c__regex_catcode_A_int=\count293
+\c__regex_all_catcodes_int=\count294
+\l__regex_show_lines_int=\count295
+\l__regex_min_state_int=\count296
+\l__regex_max_state_int=\count297
+\l__regex_left_state_int=\count298
+\l__regex_right_state_int=\count299
+\l__regex_capturing_group_int=\count300
+\l__regex_min_pos_int=\count301
+\l__regex_max_pos_int=\count302
+\l__regex_curr_pos_int=\count303
+\l__regex_start_pos_int=\count304
+\l__regex_success_pos_int=\count305
+\l__regex_curr_char_int=\count306
+\l__regex_curr_catcode_int=\count307
+\l__regex_last_char_int=\count308
+\l__regex_case_changed_char_int=\count309
+\l__regex_curr_state_int=\count310
+\l__regex_step_int=\count311
+\l__regex_min_active_int=\count312
+\l__regex_max_active_int=\count313
+\l__regex_replacement_csnames_int=\count314
+\l__regex_match_count_int=\count315
+\l__regex_min_submatch_int=\count316
+\l__regex_submatch_int=\count317
+\l__regex_zeroth_submatch_int=\count318
+\g__regex_trace_regex_int=\count319
+\c_empty_box=\box58
+\l_tmpa_box=\box59
+\l_tmpb_box=\box60
+\g_tmpa_box=\box61
+\g_tmpb_box=\box62
+\l__box_top_dim=\dimen261
+\l__box_bottom_dim=\dimen262
+\l__box_left_dim=\dimen263
+\l__box_right_dim=\dimen264
+\l__box_top_new_dim=\dimen265
+\l__box_bottom_new_dim=\dimen266
+\l__box_left_new_dim=\dimen267
+\l__box_right_new_dim=\dimen268
+\l__box_internal_box=\box63
+\l__coffin_internal_box=\box64
+\l__coffin_internal_dim=\dimen269
+\l__coffin_offset_x_dim=\dimen270
+\l__coffin_offset_y_dim=\dimen271
+\l__coffin_x_dim=\dimen272
+\l__coffin_y_dim=\dimen273
+\l__coffin_x_prime_dim=\dimen274
+\l__coffin_y_prime_dim=\dimen275
+\c_empty_coffin=\box65
+\l__coffin_aligned_coffin=\box66
+\l__coffin_aligned_internal_coffin=\box67
+\l_tmpa_coffin=\box68
+\l_tmpb_coffin=\box69
+\l__coffin_display_coffin=\box70
+\l__coffin_display_coord_coffin=\box71
+\l__coffin_display_pole_coffin=\box72
+\l__coffin_display_offset_dim=\dimen276
+\l__coffin_display_x_dim=\dimen277
+\l__coffin_display_y_dim=\dimen278
+\l__coffin_bounding_shift_dim=\dimen279
+\l__coffin_left_corner_dim=\dimen280
+\l__coffin_right_corner_dim=\dimen281
+\l__coffin_bottom_corner_dim=\dimen282
+\l__coffin_top_corner_dim=\dimen283
+\l__coffin_scaled_total_height_dim=\dimen284
+\l__coffin_scaled_width_dim=\dimen285
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
+File: l3pdfmode.def 2017/03/18 v L3 Experimental driver: PDF mode
+\l__driver_color_stack_int=\count320
+\l__driver_tmp_box=\box73
+))
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2018/02/21 LaTeX2e option processing using LaTeX3 keys
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2018/02/21 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count321
+\g__xparse_grabber_int=\count322
+\l__xparse_m_args_int=\count323
+\l__xparse_mandatory_args_int=\count324
+\l__xparse_v_nesting_int=\count325
+)
+Package: media9 2018/02/28 v0.90 acrobat-9/X compatible media
+\g_mix_pkgresizeflag_int=\count326
+
+(/usr/share/texlive/texmf-dist/tex/latex/media9/pdfbase.sty
+Package: pdfbase 2018/02/28 v0.21 driver independent access to low-level PDF fe
+atures
+\g_pbs_page_int=\count327
+\g_pbs_oc_int=\count328
+)
+(/usr/share/texlive/texmf-dist/tex/latex/ocgx2/ocgbase.sty
+Package: ocgbase 2017/09/29 v0.12 support package for ocgx2.sty
+\g_ocgbase_nd_int=\count329
+)
+\l_mix_poster_box=\box74
+\g_mix_wd_dim=\dimen286
+\g_mix_ht_dim=\dimen287
+\g_mix_dp_dim=\dimen288
+\g_mix_rmcnt_int=\count330
+\l_mix_viewcnt_int=\count331
+\g@mix@page@int=\count332
+\g_mix_resizeflag_int=\count333
+\l_mix_lineno_int=\count334
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \addmediapath with sig. 'm' on line 804.
+.................................................
+\l_mix_pbtn_box=\box75
+\mix@btn@dim=\dimen289
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \includemedia with sig. 'O{}mm' on line 1212.
+.................................................
+\g_mix_mbtncnt_int=\count335
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \mediabutton with sig. 'O{}m' on line 2418.
+.................................................
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2017/10/31 v0.5l Insert pages of external PDF documents (AM)
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count336
+\calc@Bcount=\count337
+\calc@Adimen=\dimen290
+\calc@Bdimen=\dimen291
+\calc@Askip=\skip69
+\calc@Bskip=\skip70
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count338
+\calc@Cskip=\skip71
+)
+(/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
+)
+\AM@pagewidth=\dimen292
+\AM@pageheight=\dimen293
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2017/10/31 v0.5l Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box76
+\AM@global@opts=\toks51
+\AM@toc@title=\toks52
+\c@AM@survey=\count339
+\AM@templatesizebox=\box77
+)
+(/usr/share/texlive/texmf-dist/tex/latex/textpos/textpos.sty
+Package: textpos 2016/06/07 v1.8
+
+Package: textpos 2016/06/07 1.8, absolute positioning of text on the page
+\TP@textbox=\box78
+\TP@holdbox=\box79
+\TPHorizModule=\dimen294
+\TPVertModule=\dimen295
+\TP@margin=\dimen296
+\TP@absmargin=\dimen297
+Grid set 16 x 16 = 22.7622pt x 17.07166pt
+\TPboxrulesize=\dimen298
+\TP@ox=\dimen299
+\TP@oy=\dimen300
+\TP@tbargs=\toks53
+\TP@prevdepth=\dimen301
+TextBlockOrigin set to 0pt x 0pt
+) (/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
+\pgfnodeparttextbox=\box80
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65
+.sty
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen302
+\pgf@nodesepend=\dimen303
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18
+.sty
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
+)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen304
+\pgffor@skip=\dimen305
+\pgffor@stack=\toks54
+\pgffor@toks=\toks55
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers
+.code.tex
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
+\pgf@plot@mark@count=\count340
+\pgfplotmarksize=\dimen306
+)
+\tikz@lastx=\dimen307
+\tikz@lasty=\dimen308
+\tikz@lastxsaved=\dimen309
+\tikz@lastysaved=\dimen310
+\tikzleveldistance=\dimen311
+\tikzsiblingdistance=\dimen312
+\tikz@figbox=\box81
+\tikz@figbox@bg=\box82
+\tikz@tempbox=\box83
+\tikz@tempbox@bg=\box84
+\tikztreelevel=\count341
+\tikznumberofchildren=\count342
+\tikznumberofcurrentchild=\count343
+\tikz@fig@count=\count344
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count345
+\pgfmatrixcurrentcolumn=\count346
+\pgf@matrix@numberofcolumns=\count347
+)
+\tikz@expandcount=\count348
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerthemeBoadilla.sty
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamercolorthemerose.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerinnerthemerounded.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamercolorthemedolphin.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerouterthemeinfolines.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen313
+\captionmargin@=\dimen314
+\captionwidth=\dimen315
+\caption@tempdima=\dimen316
+\caption@indent=\dimen317
+\caption@parindent=\dimen318
+\caption@hangindent=\dimen319
+)
+\c@ContinuedFloat=\count349
+Package caption Info: beamer document class.
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: Hyperref support is turned off
+(caption)             because hyperref has stopped early.
+Package caption Info: listings package is loaded.
+Package caption Info: subfigure package is loaded.
+Package caption Info: wrapfig package is loaded.
+)
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 82.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 82.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 82.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\\' on input line 82.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 82.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 82.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 82.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\\' on input line 82.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 82.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 82.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 82.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\\' on input line 82.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.84 \hspace{-2cm}
+                  
+? 
+(./TemplateBeamer.aux)
+\openout1 = `TemplateBeamer.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 90.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 90.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 90.
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includehead includefoot 
+* h-part:(L,W,R)=(10.95003pt, 342.2953pt, 10.95003pt)
+* v-part:(T,H,B)=(0.0pt, 273.14662pt, 0.0pt)
+* \paperwidth=364.19536pt
+* \paperheight=273.14662pt
+* \textwidth=342.2953pt
+* \textheight=244.6939pt
+* \oddsidemargin=-61.31996pt
+* \evensidemargin=-61.31996pt
+* \topmargin=-72.26999pt
+* \headheight=14.22636pt
+* \headsep=0.0pt
+* \topskip=11.0pt
+* \footskip=14.22636pt
+* \marginparwidth=4.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count350
+\scratchdimen=\dimen320
+\scratchbox=\box85
+\nofMPsegments=\count351
+\nofMParguments=\count352
+\everyMPshowfont=\toks56
+\MPscratchCnt=\count353
+\MPscratchDim=\dimen321
+\MPnumerator=\count354
+\makeMPintoPDFobject=\count355
+\everyMPtoPDFconversion=\toks57
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+ABD: EveryShipout initializing macros
+\AtBeginShipoutBox=\box86
+Package hyperref Info: Link coloring OFF on input line 90.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count356
+)
+LaTeX Info: Redefining \ref on input line 90.
+LaTeX Info: Redefining \pageref on input line 90.
+LaTeX Info: Redefining \nameref on input line 90.
+
+(./TemplateBeamer.out) (./TemplateBeamer.out)
+\@outlinefile=\write5
+\openout5 = `TemplateBeamer.out'.
+
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 90.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 90.
+\symnumbers=\mathgroup6
+\sympureletters=\mathgroup7
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 90.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 90.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 90.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 90.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 90.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 90.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 90.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 90.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 90.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 90.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 90.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 90.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 90.
+LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 90.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 90.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 90.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 90.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 90.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 90.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 90.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 90.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
+(Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 9
+0.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  OT1/cmss/bx/it --> OT1/mathkerncmss/m/sl on input line 
+90.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
+ut line 90.
+
+(/usr/share/texlive/texmf-dist/tex/latex/translator/translator-basic-dictionary
+-English.dict
+Dictionary: translator-basic-dictionary, Language: English 
+)
+(/usr/share/texlive/texmf-dist/tex/latex/translator/translator-bibliography-dic
+tionary-English.dict
+Dictionary: translator-bibliography-dictionary, Language: English 
+)
+(/usr/share/texlive/texmf-dist/tex/latex/translator/translator-environment-dict
+ionary-English.dict
+Dictionary: translator-environment-dictionary, Language: English 
+)
+(/usr/share/texlive/texmf-dist/tex/latex/translator/translator-months-dictionar
+y-English.dict
+Dictionary: translator-months-dictionary, Language: English 
+)
+(/usr/share/texlive/texmf-dist/tex/latex/translator/translator-numbers-dictiona
+ry-English.dict
+Dictionary: translator-numbers-dictionary, Language: English 
+)
+(/usr/share/texlive/texmf-dist/tex/latex/translator/translator-theorem-dictiona
+ry-English.dict
+Dictionary: translator-theorem-dictionary, Language: English 
+)
+\c@lstlisting=\count357
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+
+(./TemplateBeamer.nav)
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.90 \begin{document}
+                     
+? 
+LaTeX Font Info:    Try loading font information for U+msa on input line 92.
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 92.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
+line 92.
+
+(/usr/share/texlive/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
+File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
+thkerncmss.
+)
+Overfull \vbox (12.0pt too high) has occurred while \output is active []
+
+
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.92 \maketitle
+               
+? 
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.108 \end{frame}
+                 
+? 
+[2
+
+]
+<./Figures/example_delay_turbulence.pdf, id=161, 200.76607pt x 83.68866pt>
+File: ./Figures/example_delay_turbulence.pdf Graphic file (type pdf)
+<use ./Figures/example_delay_turbulence.pdf>
+Package pdftex.def Info: ./Figures/example_delay_turbulence.pdf  used on input 
+line 126.
+(pdftex.def)             Requested size: 167.72658pt x 69.92126pt.
+
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.126 \end{frame}
+                 
+? 
+[3
+
+ <./Figures/example_delay_turbulence.pdf>]
+<./Figures/shape_opt_aero.png, id=196, 295.1025pt x 306.14375pt>
+File: ./Figures/shape_opt_aero.png Graphic file (type png)
+<use ./Figures/shape_opt_aero.png>
+Package pdftex.def Info: ./Figures/shape_opt_aero.png  used on input line 144.
+(pdftex.def)             Requested size: 85.57382pt x 88.77473pt.
+<./Figures/opt_shape_flying_wing.jpg, id=197, 1284.8pt x 722.7pt>
+File: ./Figures/opt_shape_flying_wing.jpg Graphic file (type jpg)
+<use ./Figures/opt_shape_flying_wing.jpg>
+Package pdftex.def Info: ./Figures/opt_shape_flying_wing.jpg  used on input lin
+e 144.
+(pdftex.def)             Requested size: 136.91603pt x 77.00502pt.
+
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.144 \end{frame}
+                 
+? 
+[4
+
+ <./Figures/shape_opt_aero.png (PNG copy)> <./Figures/opt_shape_flying_wing.jpg
+>]
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.153 ... Neural Networks and Supervised Learning}
+                                                  
+? 
+[5
+
+]
+<./Figures/ANNs_supervised_learning/perceptron.pdf, id=253, 753.53517pt x 195.6
+1081pt>
+File: ./Figures/ANNs_supervised_learning/perceptron.pdf Graphic file (type pdf)
+
+<use ./Figures/ANNs_supervised_learning/perceptron.pdf>
+Package pdftex.def Info: ./Figures/ANNs_supervised_learning/perceptron.pdf  use
+d on input line 174.
+(pdftex.def)             Requested size: 273.83728pt x 71.08543pt.
+
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.174 \end{frame}
+                 
+? 
+[6
+
+ <./Figures/ANNs_supervised_learning/perceptron.pdf>]
+<./Figures/ANNs_supervised_learning/ArtificialNeuronModel_english.png, id=288, 
+1688.3075pt x 801.99625pt>
+File: ./Figures/ANNs_supervised_learning/ArtificialNeuronModel_english.png Grap
+hic file (type png)
+<use ./Figures/ANNs_supervised_learning/ArtificialNeuronModel_english.png>
+Package pdftex.def Info: ./Figures/ANNs_supervised_learning/ArtificialNeuronMod
+el_english.png  used on input line 194.
+(pdftex.def)             Requested size: 147.18446pt x 69.91261pt.
+<./Figures/ANNs_supervised_learning/artificial_neural_network_1-791x388.jpg, id
+=290, 793.96625pt x 389.455pt>
+File: ./Figures/ANNs_supervised_learning/artificial_neural_network_1-791x388.jp
+g Graphic file (type jpg)
+<use ./Figures/ANNs_supervised_learning/artificial_neural_network_1-791x388.jpg
+>
+Package pdftex.def Info: ./Figures/ANNs_supervised_learning/artificial_neural_n
+etwork_1-791x388.jpg  used on input line 194.
+(pdftex.def)             Requested size: 147.18446pt x 72.19661pt.
+<./Figures/ANNs_supervised_learning/convolutional_layer.png, id=291, 328.22626p
+t x 154.5775pt>
+File: ./Figures/ANNs_supervised_learning/convolutional_layer.png Graphic file (
+type png)
+<use ./Figures/ANNs_supervised_learning/convolutional_layer.png>
+Package pdftex.def Info: ./Figures/ANNs_supervised_learning/convolutional_layer
+.png  used on input line 194.
+(pdftex.def)             Requested size: 143.7634pt x 67.7053pt.
+
+Overfull \vbox (8.08969pt too high) detected at line 194
+ []
+
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.194 \end{frame}
+                 
+? 
+[7
+
+ <./Figures/ANNs_supervised_learning/ArtificialNeuronModel_english.png> <./Figu
+res/ANNs_supervised_learning/artificial_neural_network_1-791x388.jpg> <./Figure
+s/ANNs_supervised_learning/convolutional_layer.png>]
+<./Figures/ANNs_supervised_learning/activation_functions.png, id=321, 1204.5pt 
+x 605.26125pt>
+File: ./Figures/ANNs_supervised_learning/activation_functions.png Graphic file 
+(type png)
+<use ./Figures/ANNs_supervised_learning/activation_functions.png>
+Package pdftex.def Info: ./Figures/ANNs_supervised_learning/activation_function
+s.png  used on input line 211.
+(pdftex.def)             Requested size: 239.60567pt x 120.39438pt.
+
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.211 \end{frame}
+                 
+? 
+[8
+
+ <./Figures/ANNs_supervised_learning/activation_functions.png (PNG copy)>]
+<./Figures/deepCNN.jpeg, id=348, 1259.70625pt x 425.59pt>
+File: ./Figures/deepCNN.jpeg Graphic file (type jpg)
+<use ./Figures/deepCNN.jpeg>
+Package pdftex.def Info: ./Figures/deepCNN.jpeg  used on input line 235.
+(pdftex.def)             Requested size: 239.60567pt x 80.94736pt.
+
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.235 \end{frame}
+                 
+? 
+[9
+
+ <./Figures/deepCNN.jpeg>]
+<./Figures/ANNs_supervised_learning/back_prop.png, id=377, 874.26625pt x 460.72
+125pt>
+File: ./Figures/ANNs_supervised_learning/back_prop.png Graphic file (type png)
+<use ./Figures/ANNs_supervised_learning/back_prop.png>
+Package pdftex.def Info: ./Figures/ANNs_supervised_learning/back_prop.png  used
+ on input line 260.
+(pdftex.def)             Requested size: 130.07388pt x 68.5428pt.
+
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.260 \end{frame}
+                 
+? 
+[10
+
+ <./Figures/ANNs_supervised_learning/back_prop.png (PNG copy)>]
+<./Figures/dropout.png, id=405, 1047.915pt x 521.95pt>
+File: ./Figures/dropout.png Graphic file (type png)
+<use ./Figures/dropout.png>
+Package pdftex.def Info: ./Figures/dropout.png  used on input line 280.
+(pdftex.def)             Requested size: 130.07388pt x 64.78165pt.
+<./Figures/resnet_layer.png, id=406, 1373.13pt x 786.94pt>
+File: ./Figures/resnet_layer.png Graphic file (type png)
+<use ./Figures/resnet_layer.png>
+Package pdftex.def Info: ./Figures/resnet_layer.png  used on input line 280.
+(pdftex.def)             Requested size: 143.7634pt x 82.38498pt.
+
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.280 \end{frame}
+                 
+? 
+[11
+
+ <./Figures/dropout.png (PNG copy)> <./Figures/resnet_layer.png>]
+<./Figures/style_transfer.jpeg, id=433, 1003.75pt x 302.12875pt>
+File: ./Figures/style_transfer.jpeg Graphic file (type jpg)
+<use ./Figures/style_transfer.jpeg>
+Package pdftex.def Info: ./Figures/style_transfer.jpeg  used on input line 297.
+
+(pdftex.def)             Requested size: 188.26346pt x 56.66743pt.
+<./Figures/adversarial.png, id=434, 797.98125pt x 317.185pt>
+File: ./Figures/adversarial.png Graphic file (type png)
+<use ./Figures/adversarial.png>
+Package pdftex.def Info: ./Figures/adversarial.png  used on input line 297.
+(pdftex.def)             Requested size: 188.26346pt x 74.82886pt.
+
+Overfull \vbox (2.02574pt too high) detected at line 297
+ []
+
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.297 \end{frame}
+                 
+? 
+[12
+
+ <./Figures/style_transfer.jpeg> <./Figures/adversarial.png>]
+<./Figures/ANNs_supervised_learning/classification.png, id=461, 1204.5pt x 495.
+8525pt>
+File: ./Figures/ANNs_supervised_learning/classification.png Graphic file (type 
+png)
+<use ./Figures/ANNs_supervised_learning/classification.png>
+Package pdftex.def Info: ./Figures/ANNs_supervised_learning/classification.png 
+ used on input line 315.
+(pdftex.def)             Requested size: 188.26346pt x 77.49945pt.
+<./Figures/ANNs_supervised_learning/Neurala_AutoRecognition-08.jpg, id=462, 963
+.6pt x 542.025pt>
+File: ./Figures/ANNs_supervised_learning/Neurala_AutoRecognition-08.jpg Graphic
+ file (type jpg)
+<use ./Figures/ANNs_supervised_learning/Neurala_AutoRecognition-08.jpg>
+Package pdftex.def Info: ./Figures/ANNs_supervised_learning/Neurala_AutoRecogni
+tion-08.jpg  used on input line 315.
+(pdftex.def)             Requested size: 143.7634pt x 80.8619pt.
+<./Figures/ANNs_supervised_learning/yoshua_bengio.png, id=463, 1899.095pt x 803
+.0pt>
+File: ./Figures/ANNs_supervised_learning/yoshua_bengio.png Graphic file (type p
+ng)
+<use ./Figures/ANNs_supervised_learning/yoshua_bengio.png>
+Package pdftex.def Info: ./Figures/ANNs_supervised_learning/yoshua_bengio.png  
+used on input line 315.
+(pdftex.def)             Requested size: 273.83728pt x 115.78874pt.
+
+Overfull \vbox (8.30922pt too high) detected at line 315
+ []
+
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.315 \end{frame}
+                 
+? 
+[13
+
+ <./Figures/ANNs_supervised_learning/classification.png (PNG copy)> <./Figures/
+ANNs_supervised_learning/Neurala_AutoRecognition-08.jpg> <./Figures/ANNs_superv
+ised_learning/yoshua_bengio.png>]
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.329 ...rom Supervised to Reinforcement Learning}
+                                                  
+? 
+[14
+
+]
+<./Figures/fig_DRL_policy.png, id=519, 1387.1825pt x 648.4225pt>
+File: ./Figures/fig_DRL_policy.png Graphic file (type png)
+<use ./Figures/fig_DRL_policy.png>
+Package pdftex.def Info: ./Figures/fig_DRL_policy.png  used on input line 351.
+(pdftex.def)             Requested size: 205.37926pt x 96.00262pt.
+
+Overfull \vbox (3.59874pt too high) detected at line 351
+ []
+
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.351 \end{frame}
+                 
+? 
+[15
+
+ <./Figures/fig_DRL_policy.png>]
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.353 \section{i. Q-learning}
+                             
+? 
+[16
+
+]
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.370 \end{frame}
+                 
+? 
+[17
+
+]
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.389 \end{frame}
+                 
+? 
+[18
+
+]
+<./Figures/ANNs_reinforcement_learning/Q_learning_example.png, id=634, 571.2943
+6pt x 453.49425pt>
+File: ./Figures/ANNs_reinforcement_learning/Q_learning_example.png Graphic file
+ (type png)
+<use ./Figures/ANNs_reinforcement_learning/Q_learning_example.png>
+Package pdftex.def Info: ./Figures/ANNs_reinforcement_learning/Q_learning_examp
+le.png  used on input line 407.
+(pdftex.def)             Requested size: 119.80544pt x 95.0982pt.
+<./Figures/ANNs_reinforcement_learning/Q_learning_example_mat.pdf, id=635, 260.
+89471pt x 183.56581pt>
+File: ./Figures/ANNs_reinforcement_learning/Q_learning_example_mat.pdf Graphic 
+file (type pdf)
+<use ./Figures/ANNs_reinforcement_learning/Q_learning_example_mat.pdf>
+Package pdftex.def Info: ./Figures/ANNs_reinforcement_learning/Q_learning_examp
+le_mat.pdf  used on input line 407.
+(pdftex.def)             Requested size: 119.80544pt x 84.29564pt.
+<./Figures/ANNs_reinforcement_learning/arrow_right.png, id=636, 1204.5pt x 1204
+.5pt>
+File: ./Figures/ANNs_reinforcement_learning/arrow_right.png Graphic file (type 
+png)
+<use ./Figures/ANNs_reinforcement_learning/arrow_right.png>
+Package pdftex.def Info: ./Figures/ANNs_reinforcement_learning/arrow_right.png 
+ used on input line 407.
+(pdftex.def)             Requested size: 17.1158pt x 17.111pt.
+<./Figures/ANNs_reinforcement_learning/Q_learning_example_0.pdf, id=637, 414.58
+891pt x 140.4447pt>
+File: ./Figures/ANNs_reinforcement_learning/Q_learning_example_0.pdf Graphic fi
+le (type pdf)
+<use ./Figures/ANNs_reinforcement_learning/Q_learning_example_0.pdf>
+Package pdftex.def Info: ./Figures/ANNs_reinforcement_learning/Q_learning_examp
+le_0.pdf  used on input line 407.
+(pdftex.def)             Requested size: 188.26346pt x 63.77599pt.
+
+Overfull \vbox (7.38992pt too high) detected at line 407
+ []
+
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.407 \end{frame}
+                 
+? 
+[19
+
+ <./Figures/ANNs_reinforcement_learning/Q_learning_example.png> <./Figures/ANNs
+_reinforcement_learning/Q_learning_example_mat.pdf> <./Figures/ANNs_reinforceme
+nt_learning/arrow_right.png> <./Figures/ANNs_reinforcement_learning/Q_learning_
+example_0.pdf
+
+pdfTeX warning: pdflatex (file ./Figures/ANNs_reinforcement_learning/Q_learning
+_example_0.pdf): PDF inclusion: multiple pdfs with page group included in a sin
+gle page
+>]
+File: ./Figures/ANNs_reinforcement_learning/Q_learning_example.png Graphic file
+ (type png)
+<use ./Figures/ANNs_reinforcement_learning/Q_learning_example.png>
+Package pdftex.def Info: ./Figures/ANNs_reinforcement_learning/Q_learning_examp
+le.png  used on input line 425.
+(pdftex.def)             Requested size: 119.80544pt x 95.0982pt.
+File: ./Figures/ANNs_reinforcement_learning/Q_learning_example_0.pdf Graphic fi
+le (type pdf)
+<use ./Figures/ANNs_reinforcement_learning/Q_learning_example_0.pdf>
+Package pdftex.def Info: ./Figures/ANNs_reinforcement_learning/Q_learning_examp
+le_0.pdf  used on input line 425.
+(pdftex.def)             Requested size: 157.45813pt x 53.33952pt.
+File: ./Figures/ANNs_reinforcement_learning/arrow_right.png Graphic file (type 
+png)
+<use ./Figures/ANNs_reinforcement_learning/arrow_right.png>
+Package pdftex.def Info: ./Figures/ANNs_reinforcement_learning/arrow_right.png 
+ used on input line 425.
+(pdftex.def)             Requested size: 17.1158pt x 17.111pt.
+<./Figures/ANNs_reinforcement_learning/Q_learning_example_1.pdf, id=679, 416.03
+432pt x 143.0946pt>
+File: ./Figures/ANNs_reinforcement_learning/Q_learning_example_1.pdf Graphic fi
+le (type pdf)
+<use ./Figures/ANNs_reinforcement_learning/Q_learning_example_1.pdf>
+Package pdftex.def Info: ./Figures/ANNs_reinforcement_learning/Q_learning_examp
+le_1.pdf  used on input line 425.
+(pdftex.def)             Requested size: 157.45813pt x 54.15598pt.
+
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.425 \end{frame}
+                 
+? 
+[20
+
+ <./Figures/ANNs_reinforcement_learning/Q_learning_example_1.pdf>]
+File: ./Figures/ANNs_reinforcement_learning/Q_learning_example.png Graphic file
+ (type png)
+<use ./Figures/ANNs_reinforcement_learning/Q_learning_example.png>
+Package pdftex.def Info: ./Figures/ANNs_reinforcement_learning/Q_learning_examp
+le.png  used on input line 443.
+(pdftex.def)             Requested size: 119.80544pt x 95.0982pt.
+File: ./Figures/ANNs_reinforcement_learning/Q_learning_example_1.pdf Graphic fi
+le (type pdf)
+<use ./Figures/ANNs_reinforcement_learning/Q_learning_example_1.pdf>
+Package pdftex.def Info: ./Figures/ANNs_reinforcement_learning/Q_learning_examp
+le_1.pdf  used on input line 443.
+(pdftex.def)             Requested size: 157.45813pt x 54.15598pt.
+File: ./Figures/ANNs_reinforcement_learning/arrow_right.png Graphic file (type 
+png)
+<use ./Figures/ANNs_reinforcement_learning/arrow_right.png>
+Package pdftex.def Info: ./Figures/ANNs_reinforcement_learning/arrow_right.png 
+ used on input line 443.
+(pdftex.def)             Requested size: 17.1158pt x 17.111pt.
+<./Figures/ANNs_reinforcement_learning/Q_learning_example_2.pdf, id=712, 417.23
+88pt x 144.54pt>
+File: ./Figures/ANNs_reinforcement_learning/Q_learning_example_2.pdf Graphic fi
+le (type pdf)
+<use ./Figures/ANNs_reinforcement_learning/Q_learning_example_2.pdf>
+Package pdftex.def Info: ./Figures/ANNs_reinforcement_learning/Q_learning_examp
+le_2.pdf  used on input line 443.
+(pdftex.def)             Requested size: 157.45813pt x 54.54642pt.
+
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.443 \end{frame}
+                 
+? 
+[21
+
+ <./Figures/ANNs_reinforcement_learning/Q_learning_example_2.pdf>]
+File: ./Figures/ANNs_reinforcement_learning/Q_learning_example.png Graphic file
+ (type png)
+<use ./Figures/ANNs_reinforcement_learning/Q_learning_example.png>
+Package pdftex.def Info: ./Figures/ANNs_reinforcement_learning/Q_learning_examp
+le.png  used on input line 461.
+(pdftex.def)             Requested size: 119.80544pt x 95.0982pt.
+File: ./Figures/ANNs_reinforcement_learning/Q_learning_example_2.pdf Graphic fi
+le (type pdf)
+<use ./Figures/ANNs_reinforcement_learning/Q_learning_example_2.pdf>
+Package pdftex.def Info: ./Figures/ANNs_reinforcement_learning/Q_learning_examp
+le_2.pdf  used on input line 461.
+(pdftex.def)             Requested size: 157.45813pt x 54.54642pt.
+File: ./Figures/ANNs_reinforcement_learning/arrow_right.png Graphic file (type 
+png)
+<use ./Figures/ANNs_reinforcement_learning/arrow_right.png>
+Package pdftex.def Info: ./Figures/ANNs_reinforcement_learning/arrow_right.png 
+ used on input line 461.
+(pdftex.def)             Requested size: 17.1158pt x 17.111pt.
+<./Figures/ANNs_reinforcement_learning/Q_learning_example_3.pdf, id=746, 409.04
+819pt x 137.313pt>
+File: ./Figures/ANNs_reinforcement_learning/Q_learning_example_3.pdf Graphic fi
+le (type pdf)
+<use ./Figures/ANNs_reinforcement_learning/Q_learning_example_3.pdf>
+Package pdftex.def Info: ./Figures/ANNs_reinforcement_learning/Q_learning_examp
+le_3.pdf  used on input line 461.
+(pdftex.def)             Requested size: 157.45813pt x 52.85623pt.
+
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.461 \end{frame}
+                 
+? 
+[22
+
+ <./Figures/ANNs_reinforcement_learning/Q_learning_example_3.pdf>]
+File: ./Figures/ANNs_reinforcement_learning/Q_learning_example.png Graphic file
+ (type png)
+<use ./Figures/ANNs_reinforcement_learning/Q_learning_example.png>
+Package pdftex.def Info: ./Figures/ANNs_reinforcement_learning/Q_learning_examp
+le.png  used on input line 477.
+(pdftex.def)             Requested size: 119.80544pt x 95.0982pt.
+<./Figures/ANNs_reinforcement_learning/Q_learning_example_4.pdf, id=779, 416.03
+432pt x 144.29909pt>
+File: ./Figures/ANNs_reinforcement_learning/Q_learning_example_4.pdf Graphic fi
+le (type pdf)
+<use ./Figures/ANNs_reinforcement_learning/Q_learning_example_4.pdf>
+Package pdftex.def Info: ./Figures/ANNs_reinforcement_learning/Q_learning_examp
+le_4.pdf  used on input line 477.
+(pdftex.def)             Requested size: 239.60567pt x 83.10562pt.
+
+Overfull \vbox (6.1999pt too high) detected at line 477
+ []
+
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.477 \end{frame}
+                 
+? 
+[23
+
+ <./Figures/ANNs_reinforcement_learning/Q_learning_example_4.pdf>]
+<./Figures/image_DQL.png, id=812, 1966.34625pt x 1923.185pt>
+File: ./Figures/image_DQL.png Graphic file (type png)
+<use ./Figures/image_DQL.png>
+Package pdftex.def Info: ./Figures/image_DQL.png  used on input line 492.
+(pdftex.def)             Requested size: 171.14764pt x 167.38617pt.
+
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.492 \end{frame}
+                 
+? 
+[24
+
+ <./Figures/image_DQL.png>]
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.517 \end{frame}
+                 
+? 
+[25
+
+]
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.519 \section{ii. Policy Gradient method}
+                                          
+? 
+[26
+
+]
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.546 \end{frame}
+                 
+? 
+[27
+
+]
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.565 \end{frame}
+                 
+? 
+[28
+
+]
+<Figures/illustration_policy_gradient.png, id=947, 826.08624pt x 309.155pt>
+File: Figures/illustration_policy_gradient.png Graphic file (type png)
+<use Figures/illustration_policy_gradient.png>
+Package pdftex.def Info: Figures/illustration_policy_gradient.png  used on inpu
+t line 580.
+(pdftex.def)             Requested size: 198.53189pt x 74.29778pt.
+
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.580 \end{frame}
+                 
+? 
+[29
+
+ <./Figures/illustration_policy_gradient.png>]
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.598 \end{frame}
+                 
+? 
+[30
+
+]
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.621 \end{frame}
+                 
+? 
+[31
+
+]
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.646 \end{frame}
+                 
+? 
+[32
+
+]
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.660 \end{frame}
+                 
+? 
+[33
+
+]
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.684 \end{frame}
+                 
+? 
+[34
+
+]
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.709 \end{frame}
+                 
+? 
+[35
+
+]
+<Figures/servers.jpg, id=1139, 2509.375pt x 1672.2475pt>
+File: Figures/servers.jpg Graphic file (type jpg)
+<use Figures/servers.jpg>
+Package pdftex.def Info: Figures/servers.jpg  used on input line 723.
+(pdftex.def)             Requested size: 198.53189pt x 132.27705pt.
+
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.723 \end{frame}
+                 
+? 
+[36
+
+ <./Figures/servers.jpg>]
+<Figures/hideandseek.jpg, id=1165, 1204.5pt x 803.0pt>
+File: Figures/hideandseek.jpg Graphic file (type jpg)
+<use Figures/hideandseek.jpg>
+Package pdftex.def Info: Figures/hideandseek.jpg  used on input line 735.
+(pdftex.def)             Requested size: 239.60567pt x 159.7272pt.
+
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.735 \end{frame}
+                 
+? 
+[37
+
+ <./Figures/hideandseek.jpg>]
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.738 ...ements and amelioration of RL algorithms}
+                                                  
+? 
+[38
+
+]
+<Figures/world_model.png, id=1222, 1606.0pt x 728.7225pt>
+File: Figures/world_model.png Graphic file (type png)
+<use Figures/world_model.png>
+Package pdftex.def Info: Figures/world_model.png  used on input line 758.
+(pdftex.def)             Requested size: 239.60567pt x 108.71432pt.
+
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.758 \end{frame}
+                 
+? 
+[39
+
+ <./Figures/world_model.png>]
+<Figures/curiosity.png, id=1250, 1002.74625pt x 456.70625pt>
+File: Figures/curiosity.png Graphic file (type png)
+<use Figures/curiosity.png>
+Package pdftex.def Info: Figures/curiosity.png  used on input line 782.
+(pdftex.def)             Requested size: 239.60567pt x 109.12392pt.
+
+Overfull \vbox (17.98254pt too high) detected at line 782
+ []
+
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.782 \end{frame}
+                 
+? 
+[40
+
+ <./Figures/curiosity.png>]
+<Figures/curiosity_reachability.png, id=1278, 1606.0pt x 791.95876pt>
+File: Figures/curiosity_reachability.png Graphic file (type png)
+<use Figures/curiosity_reachability.png>
+Package pdftex.def Info: Figures/curiosity_reachability.png  used on input line
+ 800.
+(pdftex.def)             Requested size: 239.60567pt x 118.14821pt.
+
+Overfull \vbox (4.90683pt too high) detected at line 800
+ []
+
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.800 \end{frame}
+                 
+? 
+[41
+
+ <./Figures/curiosity_reachability.png>]
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.820 \end{frame}
+                 
+? 
+[42
+
+]
+<Figures/robotWalking.png, id=1331, 1285.80376pt x 681.54625pt>
+File: Figures/robotWalking.png Graphic file (type png)
+<use Figures/robotWalking.png>
+Package pdftex.def Info: Figures/robotWalking.png  used on input line 835.
+(pdftex.def)             Requested size: 239.60567pt x 126.99924pt.
+
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.835 \end{frame}
+                 
+? 
+[43
+
+ <./Figures/robotWalking.png>]
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.837 \section{iv. Frameworks for DRL}
+                                      
+? 
+[44
+
+]
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.858 \end{frame}
+                 
+? 
+[45
+
+] (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+(./example_tensorforce.py
+Overfull \hbox (21.0881pt too wide) in paragraph at lines 14--15
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+cmss on input line 21.
+
+LaTeX Font Info:    No file OMScmss.fd. on input line 21.
+
+LaTeX Font Warning: Font shape `OMS/cmss/m/it' undefined
+(Font)              using `OMS/cmsy/m/n' instead
+(Font)              for symbol `textbar' on input line 21.
+
+
+Overfull \hbox (1.96266pt too wide) in paragraph at lines 21--22
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+)
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.867 \end{frame}
+                 
+? 
+[46
+
+] (./example_gym.py)
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.875 \end{frame}
+                 
+? 
+[47
+
+]
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.878 \section{v. Why relevant for future}
+                                          
+? 
+[48
+
+]
+<./Figures/CPUs_vs_GPUs/40_years_trend.pdf, id=1500, 459.6372pt x 346.17331pt>
+File: ./Figures/CPUs_vs_GPUs/40_years_trend.pdf Graphic file (type pdf)
+<use ./Figures/CPUs_vs_GPUs/40_years_trend.pdf>
+Package pdftex.def Info: ./Figures/CPUs_vs_GPUs/40_years_trend.pdf  used on inp
+ut line 888.
+(pdftex.def)             Requested size: 222.48985pt x 167.56635pt.
+
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.888 \end{frame}
+                 
+? 
+[49
+
+ <./Figures/CPUs_vs_GPUs/40_years_trend.pdf>]
+<./Figures/CPUs_vs_GPUs/classic_dennard.pdf, id=1535, 701.7417pt x 459.6372pt>
+File: ./Figures/CPUs_vs_GPUs/classic_dennard.pdf Graphic file (type pdf)
+<use ./Figures/CPUs_vs_GPUs/classic_dennard.pdf>
+Package pdftex.def Info: ./Figures/CPUs_vs_GPUs/classic_dennard.pdf  used on in
+put line 902.
+(pdftex.def)             Requested size: 236.18459pt x 154.69653pt.
+
+Overfull \vbox (0.15514pt too high) detected at line 902
+ []
+
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.902 \end{frame}
+                 
+? 
+[50
+
+ <./Figures/CPUs_vs_GPUs/classic_dennard.pdf>]
+<./Figures/CPUs_vs_GPUs/overview_architecture.pdf, id=1569, 701.7417pt x 485.65
+44pt>
+File: ./Figures/CPUs_vs_GPUs/overview_architecture.pdf Graphic file (type pdf)
+<use ./Figures/CPUs_vs_GPUs/overview_architecture.pdf>
+Package pdftex.def Info: ./Figures/CPUs_vs_GPUs/overview_architecture.pdf  used
+ on input line 920.
+(pdftex.def)             Requested size: 198.53189pt x 137.3977pt.
+
+Overfull \vbox (5.1938pt too high) detected at line 920
+ []
+
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.920 \end{frame}
+                 
+? 
+[51
+
+ <./Figures/CPUs_vs_GPUs/overview_architecture.pdf>]
+<Figures/ai-and-compute-all.png, id=1603, 2168.1pt x 1580.90625pt>
+File: Figures/ai-and-compute-all.png Graphic file (type png)
+<use Figures/ai-and-compute-all.png>
+Package pdftex.def Info: Figures/ai-and-compute-all.png  used on input line 937
+.
+(pdftex.def)             Requested size: 167.72658pt x 122.27774pt.
+<Figures/ai-and-compute-modern-log.png, id=1604, 2168.1pt x 1580.90625pt>
+File: Figures/ai-and-compute-modern-log.png Graphic file (type png)
+<use Figures/ai-and-compute-modern-log.png>
+Package pdftex.def Info: Figures/ai-and-compute-modern-log.png  used on input l
+ine 937.
+(pdftex.def)             Requested size: 167.72658pt x 122.27774pt.
+
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.937 \end{frame}
+                 
+? 
+[52
+
+ <./Figures/ai-and-compute-all.png (PNG copy)> <./Figures/ai-and-compute-modern
+-log.png (PNG copy)>]
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.954 \end{frame}
+                 
+? 
+[53
+
+]
+<Figures/ELO_ranking_DRL.png, id=1657, 975.645pt x 468.75125pt>
+File: Figures/ELO_ranking_DRL.png Graphic file (type png)
+<use Figures/ELO_ranking_DRL.png>
+Package pdftex.def Info: Figures/ELO_ranking_DRL.png  used on input line 962.
+(pdftex.def)             Requested size: 198.53189pt x 95.37936pt.
+<Figures/power_consumption_DRL.png, id=1658, 971.63pt x 509.905pt>
+File: Figures/power_consumption_DRL.png Graphic file (type png)
+<use Figures/power_consumption_DRL.png>
+Package pdftex.def Info: Figures/power_consumption_DRL.png  used on input line 
+962.
+(pdftex.def)             Requested size: 198.53189pt x 104.18108pt.
+
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.962 \end{frame}
+                 
+? 
+[54
+
+ <./Figures/ELO_ranking_DRL.png> <./Figures/power_consumption_DRL.png>]
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.964 ...rcement Learning for Active Flow Control}
+                                                  
+? 
+[55
+
+]
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.982 \end{frame}
+                 
+? 
+[56
+
+]
+<./Figures/karman_in_Nature.jpg, id=1741, 642.4pt x 358.33875pt>
+File: ./Figures/karman_in_Nature.jpg Graphic file (type jpg)
+<use ./Figures/karman_in_Nature.jpg>
+Package pdftex.def Info: ./Figures/karman_in_Nature.jpg  used on input line 100
+7.
+(pdftex.def)             Requested size: 119.80275pt x 56.90341pt.
+<./Figures/Karman_in_experiment.png, id=1742, 853.1875pt x 532.99126pt>
+File: ./Figures/Karman_in_experiment.png Graphic file (type png)
+<use ./Figures/Karman_in_experiment.png>
+Package pdftex.def Info: ./Figures/Karman_in_experiment.png  used on input line
+ 1007.
+(pdftex.def)             Requested size: 119.79694pt x 56.90506pt.
+<./Figures/probe_position_pressure.png, id=1743, 1040.688pt x 224.037pt>
+File: ./Figures/probe_position_pressure.png Graphic file (type png)
+<use ./Figures/probe_position_pressure.png>
+Package pdftex.def Info: ./Figures/probe_position_pressure.png  used on input l
+ine 1007.
+(pdftex.def)             Requested size: 290.94603pt x 56.90475pt.
+
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.1007 \end{frame}
+                  
+? 
+[57
+
+ <./Figures/karman_in_Nature.jpg> <./Figures/Karman_in_experiment.png> <./Figur
+es/probe_position_pressure.png>]
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.1025 \end{frame}
+                  
+? 
+[58
+
+]
+
+! LaTeX Error: Environment figure* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1042 \end{frame}
+                  
+? 
+<Figures/pressure_difference.png, id=1800, 1542.76375pt x 445.665pt>
+File: Figures/pressure_difference.png Graphic file (type png)
+<use Figures/pressure_difference.png>
+Package pdftex.def Info: Figures/pressure_difference.png  used on input line 10
+42.
+(pdftex.def)             Requested size: 239.60567pt x 69.21336pt.
+
+! LaTeX Error: \begin{beamer@framepauses} on input line 1042 ended by \end{figu
+re*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1042 \end{frame}
+                  
+? 
+
+! LaTeX Error: Environment figure* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1042 \end{frame}
+                  
+? 
+<Figures/drag_and_jets.png, id=1801, 462.528pt x 346.896pt>
+File: Figures/drag_and_jets.png Graphic file (type png)
+<use Figures/drag_and_jets.png>
+Package pdftex.def Info: Figures/drag_and_jets.png  used on input line 1042.
+(pdftex.def)             Requested size: 174.56871pt x 130.92729pt.
+
+! LaTeX Error: \begin{beamer@framepauses} on input line 1042 ended by \end{figu
+re*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1042 \end{frame}
+                  
+? 
+
+Overfull \vbox (5.79924pt too high) detected at line 1042
+ []
+
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.1042 \end{frame}
+                  
+? 
+[59
+
+ <./Figures/pressure_difference.png> <./Figures/drag_and_jets.png>]
+
+! LaTeX Error: Environment figure* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1058 \end{frame}
+                  
+? 
+<Figures/illustration_Cordier.pdf, id=1831, 259.01569pt x 166.51009pt>
+File: Figures/illustration_Cordier.pdf Graphic file (type pdf)
+<use Figures/illustration_Cordier.pdf>
+Package pdftex.def Info: Figures/illustration_Cordier.pdf  used on input line 1
+058.
+(pdftex.def)             Requested size: 174.56871pt x 112.22684pt.
+
+! LaTeX Error: \begin{beamer@framepauses} on input line 1058 ended by \end{figu
+re*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1058 \end{frame}
+                  
+? 
+
+Overfull \vbox (12.0124pt too high) detected at line 1058
+ []
+
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.1058 \end{frame}
+                  
+? 
+[60
+
+ <./Figures/illustration_Cordier.pdf>]
+
+! LaTeX Error: Environment figure* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1072 \end{frame}
+                  
+? 
+<Figures/base_flow_half_domain.pdf, id=1865, 1181.6169pt x 149.5992pt>
+File: Figures/base_flow_half_domain.pdf Graphic file (type pdf)
+<use Figures/base_flow_half_domain.pdf>
+Package pdftex.def Info: Figures/base_flow_half_domain.pdf  used on input line 
+1072.
+(pdftex.def)             Requested size: 338.87422pt x 42.90329pt.
+
+! LaTeX Error: \begin{beamer@framepauses} on input line 1072 ended by \end{figu
+re*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1072 \end{frame}
+                  
+? 
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.1072 \end{frame}
+                  
+? 
+[61
+
+ <./Figures/base_flow_half_domain.pdf>]
+
+! LaTeX Error: Environment figure* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1084 \end{frame}
+                  
+? 
+<Figures/fig5_illustration_cheating.png, id=1902, 851.18pt x 575.14874pt>
+File: Figures/fig5_illustration_cheating.png Graphic file (type png)
+<use Figures/fig5_illustration_cheating.png>
+Package pdftex.def Info: Figures/fig5_illustration_cheating.png  used on input 
+line 1084.
+(pdftex.def)             Requested size: 256.72147pt x 173.46744pt.
+
+! LaTeX Error: \begin{beamer@framepauses} on input line 1084 ended by \end{figu
+re*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1084 \end{frame}
+                  
+? 
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.1084 \end{frame}
+                  
+? 
+[62
+
+ <./Figures/fig5_illustration_cheating.png (PNG copy)>]
+
+! LaTeX Error: Environment figure* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1102 \end{frame}
+                  
+? 
+<Figures/fig2_illustration_2_time_scales.pdf, id=1930, 97.02388pt x 41.16168pt>
+
+File: Figures/fig2_illustration_2_time_scales.pdf Graphic file (type pdf)
+<use Figures/fig2_illustration_2_time_scales.pdf>
+Package pdftex.def Info: Figures/fig2_illustration_2_time_scales.pdf  used on i
+nput line 1102.
+(pdftex.def)             Requested size: 154.03183pt x 65.35191pt.
+
+! LaTeX Error: \begin{beamer@framepauses} on input line 1102 ended by \end{figu
+re*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1102 \end{frame}
+                  
+? 
+
+! LaTeX Error: Environment figure* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1102 \end{frame}
+                  
+? 
+<Figures/fig6_fig_effect_action_frq.pdf, id=1931, 60.69917pt x 45.52438pt>
+File: Figures/fig6_fig_effect_action_frq.pdf Graphic file (type pdf)
+<use Figures/fig6_fig_effect_action_frq.pdf>
+Package pdftex.def Info: Figures/fig6_fig_effect_action_frq.pdf  used on input 
+line 1102.
+(pdftex.def)             Requested size: 136.91603pt x 102.70605pt.
+
+! LaTeX Error: \begin{beamer@framepauses} on input line 1102 ended by \end{figu
+re*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1102 \end{frame}
+                  
+? 
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.1102 \end{frame}
+                  
+? 
+[63
+
+ <./Figures/fig2_illustration_2_time_scales.pdf> <./Figures/fig6_fig_effect_act
+ion_frq.pdf>]
+
+! LaTeX Error: Environment figure* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1115 \end{frame}
+                  
+? 
+<Figures/FlowUncontrolled.png, id=1971, 2107.875pt x 379.4175pt>
+File: Figures/FlowUncontrolled.png Graphic file (type png)
+<use Figures/FlowUncontrolled.png>
+Package pdftex.def Info: Figures/FlowUncontrolled.png  used on input line 1115.
+
+(pdftex.def)             Requested size: 338.87422pt x 60.9975pt.
+<Figures/FlowControlled.png, id=1972, 2101.8525pt x 381.425pt>
+File: Figures/FlowControlled.png Graphic file (type png)
+<use Figures/FlowControlled.png>
+Package pdftex.def Info: Figures/FlowControlled.png  used on input line 1115.
+(pdftex.def)             Requested size: 338.87422pt x 61.49484pt.
+
+! LaTeX Error: \begin{beamer@framepauses} on input line 1115 ended by \end{figu
+re*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1115 \end{frame}
+                  
+? 
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.1115 \end{frame}
+                  
+? 
+[64
+
+ <./Figures/FlowUncontrolled.png> <./Figures/FlowControlled.png>]
+
+! LaTeX Error: Environment figure* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1133 \end{frame}
+                  
+? 
+<Figures/fig_real_time_under.png, id=1999, 462.528pt x 346.896pt>
+File: Figures/fig_real_time_under.png Graphic file (type png)
+<use Figures/fig_real_time_under.png>
+Package pdftex.def Info: Figures/fig_real_time_under.png  used on input line 11
+33.
+(pdftex.def)             Requested size: 167.72658pt x 125.7929pt.
+<Figures/fig_real_time_over.png, id=2000, 462.528pt x 346.896pt>
+File: Figures/fig_real_time_over.png Graphic file (type png)
+<use Figures/fig_real_time_over.png>
+Package pdftex.def Info: Figures/fig_real_time_over.png  used on input line 113
+3.
+(pdftex.def)             Requested size: 167.72658pt x 125.7929pt.
+
+! LaTeX Error: \begin{beamer@framepauses} on input line 1133 ended by \end{figu
+re*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1133 \end{frame}
+                  
+? 
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.1133 \end{frame}
+                  
+? 
+[65
+
+ <./Figures/fig_real_time_under.png> <./Figures/fig_real_time_over.png>]
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.1152 \end{frame}
+                  
+? 
+[66
+
+]
+
+! LaTeX Error: Environment figure* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1174 \end{frame}
+                  
+? 
+<Figures/both_drag.png, id=2057, 462.528pt x 346.896pt>
+File: Figures/both_drag.png Graphic file (type png)
+<use Figures/both_drag.png>
+Package pdftex.def Info: Figures/both_drag.png  used on input line 1174.
+(pdftex.def)             Requested size: 109.537pt x 82.15045pt.
+<Figures/both_lift.png, id=2058, 462.528pt x 346.896pt>
+File: Figures/both_lift.png Graphic file (type png)
+<use Figures/both_lift.png>
+Package pdftex.def Info: Figures/both_lift.png  used on input line 1174.
+(pdftex.def)             Requested size: 109.537pt x 82.15045pt.
+<Figures/both_area.png, id=2059, 462.528pt x 346.896pt>
+File: Figures/both_area.png Graphic file (type png)
+<use Figures/both_area.png>
+Package pdftex.def Info: Figures/both_area.png  used on input line 1174.
+(pdftex.def)             Requested size: 109.537pt x 82.15045pt.
+
+! LaTeX Error: \begin{beamer@framepauses} on input line 1174 ended by \end{figu
+re*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1174 \end{frame}
+                  
+? 
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.1174 \end{frame}
+                  
+? 
+[67
+
+ <./Figures/both_drag.png> <./Figures/both_lift.png> <./Figures/both_area.png>]
+
+
+! LaTeX Error: Environment figure* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1189 \end{frame}
+                  
+? 
+<Figures/baseline_Case_109_four_Res.pdf, id=2091, 436.6038pt x 335.20128pt>
+File: Figures/baseline_Case_109_four_Res.pdf Graphic file (type pdf)
+<use Figures/baseline_Case_109_four_Res.pdf>
+Package pdftex.def Info: Figures/baseline_Case_109_four_Res.pdf  used on input 
+line 1189.
+(pdftex.def)             Requested size: 167.72658pt x 128.77412pt.
+<Figures/CD_comparison_general_model_Case_109_vorticity.pdf, id=2092, 502.678pt
+ x 420.68668pt>
+File: Figures/CD_comparison_general_model_Case_109_vorticity.pdf Graphic file (
+type pdf)
+<use Figures/CD_comparison_general_model_Case_109_vorticity.pdf>
+Package pdftex.def Info: Figures/CD_comparison_general_model_Case_109_vorticity
+.pdf  used on input line 1189.
+(pdftex.def)             Requested size: 167.72658pt x 140.36761pt.
+
+! LaTeX Error: \begin{beamer@framepauses} on input line 1189 ended by \end{figu
+re*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1189 \end{frame}
+                  
+? 
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.1189 \end{frame}
+                  
+? 
+[68
+
+ <./Figures/baseline_Case_109_four_Res.pdf> <./Figures/CD_comparison_general_mo
+del_Case_109_vorticity.pdf
+
+pdfTeX warning: pdflatex (file ./Figures/CD_comparison_general_model_Case_109_v
+orticity.pdf): PDF inclusion: multiple pdfs with page group included in a singl
+e page
+>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1204 \end{frame}
+                  
+? 
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.1204 \end{frame}
+                  
+? 
+[69
+
+]
+<Figures/HiFiCoMa-1.pdf, id=2274, 722.7pt x 542.025pt>
+File: Figures/HiFiCoMa-1.pdf Graphic file (type pdf)
+<use Figures/HiFiCoMa-1.pdf>
+Package pdftex.def Info: Figures/HiFiCoMa-1.pdf  used on input line 1208.
+(pdftex.def)             Requested size: 722.69823pt x 542.02367pt.
+File: Figures/HiFiCoMa-1.pdf Graphic file (type pdf)
+<use Figures/HiFiCoMa-1.pdf>
+Package pdftex.def Info: Figures/HiFiCoMa-1.pdf  used on input line 1208.
+(pdftex.def)             Requested size: 722.69823pt x 542.02367pt.
+<Figures/HiFiCoMa-1.pdf, id=2277, page=1, 722.7pt x 542.025pt>
+File: Figures/HiFiCoMa-1.pdf Graphic file (type pdf)
+<use Figures/HiFiCoMa-1.pdf, page 1>
+Package pdftex.def Info: Figures/HiFiCoMa-1.pdf , page1 used on input line 1208
+.
+(pdftex.def)             Requested size: 722.69823pt x 542.02367pt.
+File: Figures/HiFiCoMa-1.pdf Graphic file (type pdf)
+<use Figures/HiFiCoMa-1.pdf, page 1>
+Package pdftex.def Info: Figures/HiFiCoMa-1.pdf , page1 used on input line 1208
+.
+(pdftex.def)             Requested size: 364.20523pt x 273.15392pt.
+File: Figures/HiFiCoMa-1.pdf Graphic file (type pdf)
+<use Figures/HiFiCoMa-1.pdf, page 1>
+Package pdftex.def Info: Figures/HiFiCoMa-1.pdf , page1 used on input line 1208
+.
+(pdftex.def)             Requested size: 364.20523pt x 273.15392pt.
+File: Figures/HiFiCoMa-1.pdf Graphic file (type pdf)
+<use Figures/HiFiCoMa-1.pdf, page 1>
+Package pdftex.def Info: Figures/HiFiCoMa-1.pdf , page1 used on input line 1208
+.
+(pdftex.def)             Requested size: 364.20523pt x 273.15392pt.
+File: Figures/HiFiCoMa-1.pdf Graphic file (type pdf)
+<use Figures/HiFiCoMa-1.pdf, page 1>
+Package pdftex.def Info: Figures/HiFiCoMa-1.pdf , page1 used on input line 1208
+.
+(pdftex.def)             Requested size: 364.20523pt x 273.15392pt.
+ [70
+
+ <./Figures/HiFiCoMa-1.pdf>]
+<Figures/HiFiCoMa-12.pdf, id=2344, 722.7pt x 542.025pt>
+File: Figures/HiFiCoMa-12.pdf Graphic file (type pdf)
+<use Figures/HiFiCoMa-12.pdf>
+Package pdftex.def Info: Figures/HiFiCoMa-12.pdf  used on input line 1213.
+(pdftex.def)             Requested size: 722.69823pt x 542.02367pt.
+File: Figures/HiFiCoMa-12.pdf Graphic file (type pdf)
+<use Figures/HiFiCoMa-12.pdf>
+Package pdftex.def Info: Figures/HiFiCoMa-12.pdf  used on input line 1213.
+(pdftex.def)             Requested size: 722.69823pt x 542.02367pt.
+<Figures/HiFiCoMa-12.pdf, id=2347, page=1, 722.7pt x 542.025pt>
+File: Figures/HiFiCoMa-12.pdf Graphic file (type pdf)
+<use Figures/HiFiCoMa-12.pdf, page 1>
+Package pdftex.def Info: Figures/HiFiCoMa-12.pdf , page1 used on input line 121
+3.
+(pdftex.def)             Requested size: 722.69823pt x 542.02367pt.
+File: Figures/HiFiCoMa-12.pdf Graphic file (type pdf)
+<use Figures/HiFiCoMa-12.pdf, page 1>
+Package pdftex.def Info: Figures/HiFiCoMa-12.pdf , page1 used on input line 121
+3.
+(pdftex.def)             Requested size: 364.20523pt x 273.15392pt.
+File: Figures/HiFiCoMa-12.pdf Graphic file (type pdf)
+<use Figures/HiFiCoMa-12.pdf, page 1>
+Package pdftex.def Info: Figures/HiFiCoMa-12.pdf , page1 used on input line 121
+3.
+(pdftex.def)             Requested size: 364.20523pt x 273.15392pt.
+File: Figures/HiFiCoMa-12.pdf Graphic file (type pdf)
+<use Figures/HiFiCoMa-12.pdf, page 1>
+Package pdftex.def Info: Figures/HiFiCoMa-12.pdf , page1 used on input line 121
+3.
+(pdftex.def)             Requested size: 364.20523pt x 273.15392pt.
+File: Figures/HiFiCoMa-12.pdf Graphic file (type pdf)
+<use Figures/HiFiCoMa-12.pdf, page 1>
+Package pdftex.def Info: Figures/HiFiCoMa-12.pdf , page1 used on input line 121
+3.
+(pdftex.def)             Requested size: 364.20523pt x 273.15392pt.
+ [71 <./Figures/HiFiCoMa-12.pdf>]
+<Figures/HiFiCoMa-14.pdf, id=2406, 722.7pt x 542.025pt>
+File: Figures/HiFiCoMa-14.pdf Graphic file (type pdf)
+<use Figures/HiFiCoMa-14.pdf>
+Package pdftex.def Info: Figures/HiFiCoMa-14.pdf  used on input line 1218.
+(pdftex.def)             Requested size: 722.69823pt x 542.02367pt.
+File: Figures/HiFiCoMa-14.pdf Graphic file (type pdf)
+<use Figures/HiFiCoMa-14.pdf>
+Package pdftex.def Info: Figures/HiFiCoMa-14.pdf  used on input line 1218.
+(pdftex.def)             Requested size: 722.69823pt x 542.02367pt.
+<Figures/HiFiCoMa-14.pdf, id=2409, page=1, 722.7pt x 542.025pt>
+File: Figures/HiFiCoMa-14.pdf Graphic file (type pdf)
+<use Figures/HiFiCoMa-14.pdf, page 1>
+Package pdftex.def Info: Figures/HiFiCoMa-14.pdf , page1 used on input line 121
+8.
+(pdftex.def)             Requested size: 722.69823pt x 542.02367pt.
+File: Figures/HiFiCoMa-14.pdf Graphic file (type pdf)
+<use Figures/HiFiCoMa-14.pdf, page 1>
+Package pdftex.def Info: Figures/HiFiCoMa-14.pdf , page1 used on input line 121
+8.
+(pdftex.def)             Requested size: 364.20523pt x 273.15392pt.
+File: Figures/HiFiCoMa-14.pdf Graphic file (type pdf)
+<use Figures/HiFiCoMa-14.pdf, page 1>
+Package pdftex.def Info: Figures/HiFiCoMa-14.pdf , page1 used on input line 121
+8.
+(pdftex.def)             Requested size: 364.20523pt x 273.15392pt.
+File: Figures/HiFiCoMa-14.pdf Graphic file (type pdf)
+<use Figures/HiFiCoMa-14.pdf, page 1>
+Package pdftex.def Info: Figures/HiFiCoMa-14.pdf , page1 used on input line 121
+8.
+(pdftex.def)             Requested size: 364.20523pt x 273.15392pt.
+File: Figures/HiFiCoMa-14.pdf Graphic file (type pdf)
+<use Figures/HiFiCoMa-14.pdf, page 1>
+Package pdftex.def Info: Figures/HiFiCoMa-14.pdf , page1 used on input line 121
+8.
+(pdftex.def)             Requested size: 364.20523pt x 273.15392pt.
+ [72 <./Figures/HiFiCoMa-14.pdf>]
+
+! LaTeX Error: Environment figure* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1240 \end{frame}
+                  
+? 
+<Figures/regions_.png, id=2478, 1060.2009pt x 266.6763pt>
+File: Figures/regions_.png Graphic file (type png)
+<use Figures/regions_.png>
+Package pdftex.def Info: Figures/regions_.png  used on input line 1240.
+(pdftex.def)             Requested size: 314.91104pt x 79.21002pt.
+
+! LaTeX Error: \begin{beamer@framepauses} on input line 1240 ended by \end{figu
+re*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1240 \end{frame}
+                  
+? 
+
+Overfull \vbox (6.98468pt too high) detected at line 1240
+ []
+
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.1240 \end{frame}
+                  
+? 
+[73 <./Figures/regions_.png>]
+
+! LaTeX Error: Environment figure* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1264 \end{frame}
+                  
+? 
+<Figures/graph_mlp_final.png, id=2507, 2350.28062pt x 684.30656pt>
+File: Figures/graph_mlp_final.png Graphic file (type png)
+<use Figures/graph_mlp_final.png>
+Package pdftex.def Info: Figures/graph_mlp_final.png  used on input line 1264.
+(pdftex.def)             Requested size: 335.44792pt x 97.66087pt.
+
+! LaTeX Error: \begin{beamer@framepauses} on input line 1264 ended by \end{figu
+re*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1264 \end{frame}
+                  
+? 
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.1264 \end{frame}
+                  
+? 
+[74
+
+ <./Figures/graph_mlp_final.png>]
+
+! LaTeX Error: Environment figure* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1278 \end{frame}
+                  
+? 
+<Figures/graph_cnn_final.png, id=2534, 2350.28062pt x 688.07062pt>
+File: Figures/graph_cnn_final.png Graphic file (type png)
+<use Figures/graph_cnn_final.png>
+Package pdftex.def Info: Figures/graph_cnn_final.png  used on input line 1278.
+(pdftex.def)             Requested size: 335.44792pt x 98.19806pt.
+
+! LaTeX Error: \begin{beamer@framepauses} on input line 1278 ended by \end{figu
+re*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1278 \end{frame}
+                  
+? 
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.1278 \end{frame}
+                  
+? 
+[75
+
+ <./Figures/graph_cnn_final.png>]
+
+! LaTeX Error: Environment figure* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1290 \end{frame}
+                  
+? 
+<Figures/graph_multienv_final.png, id=2562, 2350.28062pt x 1005.00468pt>
+File: Figures/graph_multienv_final.png Graphic file (type png)
+<use Figures/graph_multienv_final.png>
+Package pdftex.def Info: Figures/graph_multienv_final.png  used on input line 1
+290.
+(pdftex.def)             Requested size: 335.44792pt x 143.42934pt.
+
+! LaTeX Error: \begin{beamer@framepauses} on input line 1290 ended by \end{figu
+re*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1290 \end{frame}
+                  
+? 
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.1290 \end{frame}
+                  
+? 
+[76
+
+ <./Figures/graph_multienv_final.png>]
+
+! LaTeX Error: Environment figure* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1301 \end{frame}
+                  
+? 
+<Figures/figure_nice1jet_.png, id=2589, 462.528pt x 346.896pt>
+File: Figures/figure_nice1jet_.png Graphic file (type png)
+<use Figures/figure_nice1jet_.png>
+Package pdftex.def Info: Figures/figure_nice1jet_.png  used on input line 1301.
+
+(pdftex.def)             Requested size: 147.18446pt x 110.38968pt.
+<Figures/figure_nice5jet_.png, id=2590, 462.528pt x 346.896pt>
+File: Figures/figure_nice5jet_.png Graphic file (type png)
+<use Figures/figure_nice5jet_.png>
+Package pdftex.def Info: Figures/figure_nice5jet_.png  used on input line 1301.
+
+(pdftex.def)             Requested size: 147.18446pt x 110.38968pt.
+<Figures/figure_nice10jet_.png, id=2591, 462.528pt x 346.896pt>
+File: Figures/figure_nice10jet_.png Graphic file (type png)
+<use Figures/figure_nice10jet_.png>
+Package pdftex.def Info: Figures/figure_nice10jet_.png  used on input line 1301
+.
+(pdftex.def)             Requested size: 147.18446pt x 110.38968pt.
+<Figures/figure_nice20jet_.png, id=2592, 462.528pt x 346.896pt>
+File: Figures/figure_nice20jet_.png Graphic file (type png)
+<use Figures/figure_nice20jet_.png>
+Package pdftex.def Info: Figures/figure_nice20jet_.png  used on input line 1301
+.
+(pdftex.def)             Requested size: 147.18446pt x 110.38968pt.
+
+! LaTeX Error: \begin{beamer@framepauses} on input line 1301 ended by \end{figu
+re*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1301 \end{frame}
+                  
+? 
+
+Overfull \vbox (4.70877pt too high) detected at line 1301
+ []
+
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.1301 \end{frame}
+                  
+? 
+[77
+
+ <./Figures/figure_nice1jet_.png> <./Figures/figure_nice5jet_.png> <./Figures/f
+igure_nice10jet_.png> <./Figures/figure_nice20jet_.png>]
+
+! LaTeX Error: Environment figure* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1317 \end{frame}
+                  
+? 
+<Figures/figure_comparison_njet_m31.png, id=2623, 462.528pt x 346.896pt>
+File: Figures/figure_comparison_njet_m31.png Graphic file (type png)
+<use Figures/figure_comparison_njet_m31.png>
+Package pdftex.def Info: Figures/figure_comparison_njet_m31.png  used on input 
+line 1317.
+(pdftex.def)             Requested size: 164.30028pt x 123.22568pt.
+<Figures/figure_comparison_njet_m30.png, id=2624, 462.528pt x 346.896pt>
+File: Figures/figure_comparison_njet_m30.png Graphic file (type png)
+<use Figures/figure_comparison_njet_m30.png>
+Package pdftex.def Info: Figures/figure_comparison_njet_m30.png  used on input 
+line 1317.
+(pdftex.def)             Requested size: 164.30028pt x 123.22568pt.
+
+! LaTeX Error: \begin{beamer@framepauses} on input line 1317 ended by \end{figu
+re*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1317 \end{frame}
+                  
+? 
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.1317 \end{frame}
+                  
+? 
+[78
+
+ <./Figures/figure_comparison_njet_m31.png> <./Figures/figure_comparison_njet_m
+30.png>]
+<Figures/trained.png, id=2653, 1073.00874pt x 313.17pt>
+File: Figures/trained.png Graphic file (type png)
+<use Figures/trained.png>
+Package pdftex.def Info: Figures/trained.png  used on input line 1331.
+(pdftex.def)             Requested size: 256.72147pt x 74.9234pt.
+<Figures/figure5-1.png, id=2654, 1269.7839pt x 359.1819pt>
+File: Figures/figure5-1.png Graphic file (type png)
+<use Figures/figure5-1.png>
+Package pdftex.def Info: Figures/figure5-1.png  used on input line 1331.
+(pdftex.def)             Requested size: 290.9531pt x 82.30318pt.
+
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.1331 \end{frame}
+                  
+? 
+[79
+
+ <./Figures/trained.png> <./Figures/figure5-1.png>]
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.1351 \end{frame}
+                  
+? 
+[80
+
+]
+
+! LaTeX Error: Environment figure* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1365 \end{frame}
+                  
+? 
+<Figures/reward_convergence_with_inset.pdf, id=2710, 462.52798pt x 346.89601pt>
+
+File: Figures/reward_convergence_with_inset.pdf Graphic file (type pdf)
+<use Figures/reward_convergence_with_inset.pdf>
+Package pdftex.def Info: Figures/reward_convergence_with_inset.pdf  used on inp
+ut line 1365.
+(pdftex.def)             Requested size: 143.7634pt x 107.82248pt.
+<Figures/control.pdf, id=2711, 462.52798pt x 346.89601pt>
+File: Figures/control.pdf Graphic file (type pdf)
+<use Figures/control.pdf>
+Package pdftex.def Info: Figures/control.pdf  used on input line 1365.
+(pdftex.def)             Requested size: 143.7634pt x 107.82248pt.
+<Figures/controlled.pdf, id=2712, 462.52798pt x 346.89601pt>
+File: Figures/controlled.pdf Graphic file (type pdf)
+<use Figures/controlled.pdf>
+Package pdftex.def Info: Figures/controlled.pdf  used on input line 1365.
+(pdftex.def)             Requested size: 143.7634pt x 107.82248pt.
+
+! LaTeX Error: \begin{beamer@framepauses} on input line 1365 ended by \end{figu
+re*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1365 \end{frame}
+                  
+? 
+
+Overfull \vbox (15.30354pt too high) detected at line 1365
+ []
+
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.1365 \end{frame}
+                  
+? 
+[81
+
+ <./Figures/reward_convergence_with_inset.pdf> <./Figures/control.pdf
+
+pdfTeX warning: pdflatex (file ./Figures/control.pdf): PDF inclusion: multiple 
+pdfs with page group included in a single page
+> <./Figures/controlled.pdf
+
+pdfTeX warning: pdflatex (file ./Figures/controlled.pdf): PDF inclusion: multip
+le pdfs with page group included in a single page
+>]
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.1367 \section{DRL for shape optimization}
+                                           
+? 
+[82
+
+]
+
+! LaTeX Error: Environment figure* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1384 \end{frame}
+                  
+? 
+<Figures/simulation_setup.png, id=2833, 373.8768pt x 194.1654pt>
+File: Figures/simulation_setup.png Graphic file (type png)
+<use Figures/simulation_setup.png>
+Package pdftex.def Info: Figures/simulation_setup.png  used on input line 1384.
+
+(pdftex.def)             Requested size: 246.45303pt x 127.98956pt.
+
+! LaTeX Error: \begin{beamer@framepauses} on input line 1384 ended by \end{figu
+re*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1384 \end{frame}
+                  
+? 
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.1384 \end{frame}
+                  
+? 
+[83
+
+ <./Figures/simulation_setup.png>]
+<Figures/shape_discretization.png, id=2861, 375.804pt x 206.2104pt>
+File: Figures/shape_discretization.png Graphic file (type png)
+<use Figures/shape_discretization.png>
+Package pdftex.def Info: Figures/shape_discretization.png  used on input line 1
+397.
+(pdftex.def)             Requested size: 266.98991pt x 146.50793pt.
+
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.1397 \end{frame}
+                  
+? 
+[84
+
+ <./Figures/shape_discretization.png>]
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.1423 \end{frame}
+                  
+? 
+[85
+
+]
+<Figures/results_shape_opt.png, id=2917, 378.213pt x 371.4678pt>
+File: Figures/results_shape_opt.png Graphic file (type png)
+<use Figures/results_shape_opt.png>
+Package pdftex.def Info: Figures/results_shape_opt.png  used on input line 1429
+.
+(pdftex.def)             Requested size: 222.48985pt x 218.52359pt.
+
+Overfull \vbox (1.453pt too high) detected at line 1429
+ []
+
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.1429 \end{frame}
+                  
+? 
+[86
+
+ <./Figures/results_shape_opt.png (PNG copy)>]
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.1446 \end{frame}
+                  
+? 
+[87
+
+]
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.1448 ...on{Other applications in the literature}
+                                                  
+? 
+[88
+
+]
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.1450 ...{i. Rayleigh-Benard instability control}
+                                                  
+? 
+[89
+
+]
+
+! LaTeX Error: Environment figure* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1472 \end{frame}
+                  
+? 
+<Figures/RBi.jpeg, id=3024, 301.125pt x 168.63pt>
+File: Figures/RBi.jpeg Graphic file (type jpg)
+<use Figures/RBi.jpeg>
+Package pdftex.def Info: Figures/RBi.jpeg  used on input line 1472.
+(pdftex.def)             Requested size: 154.03183pt x 86.26003pt.
+<Figures/monochristal.jpg, id=3025, 276.03125pt x 183.68625pt>
+File: Figures/monochristal.jpg Graphic file (type jpg)
+<use Figures/monochristal.jpg>
+Package pdftex.def Info: Figures/monochristal.jpg  used on input line 1472.
+(pdftex.def)             Requested size: 119.80544pt x 79.72627pt.
+
+! LaTeX Error: \begin{beamer@framepauses} on input line 1472 ended by \end{figu
+re*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1472 \end{frame}
+                  
+? 
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.1472 \end{frame}
+                  
+? 
+[90
+
+ <./Figures/RBi.jpeg> <./Figures/monochristal.jpg>]
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.1475 ... Optimal navigation: the Zemelo problem}
+                                                  
+? 
+[91
+
+]
+
+! LaTeX Error: Environment figure* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1487 \end{frame}
+                  
+? 
+<Figures/Zemelo_1.png, id=3082, 478.4274pt x 293.4162pt>
+File: Figures/Zemelo_1.png Graphic file (type png)
+<use Figures/Zemelo_1.png>
+Package pdftex.def Info: Figures/Zemelo_1.png  used on input line 1487.
+(pdftex.def)             Requested size: 311.48997pt x 191.04062pt.
+
+! LaTeX Error: \begin{beamer@framepauses} on input line 1487 ended by \end{figu
+re*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1487 \end{frame}
+                  
+? 
+
+Overfull \vbox (17.50754pt too high) detected at line 1487
+ []
+
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.1487 \end{frame}
+                  
+? 
+[92
+
+ <./Figures/Zemelo_1.png>]
+
+! LaTeX Error: Environment figure* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1496 \end{frame}
+                  
+? 
+<Figures/Zemelo_2.png, id=3109, 238.9728pt x 151.767pt>
+File: Figures/Zemelo_2.png Graphic file (type png)
+<use Figures/Zemelo_2.png>
+Package pdftex.def Info: Figures/Zemelo_2.png  used on input line 1496.
+(pdftex.def)             Requested size: 154.03183pt x 97.82295pt.
+<Figures/Zemelo_3.png, id=3110, 255.354pt x 129.1224pt>
+File: Figures/Zemelo_3.png Graphic file (type png)
+<use Figures/Zemelo_3.png>
+Package pdftex.def Info: Figures/Zemelo_3.png  used on input line 1496.
+(pdftex.def)             Requested size: 222.48985pt x 112.50699pt.
+
+! LaTeX Error: \begin{beamer@framepauses} on input line 1496 ended by \end{figu
+re*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1496 \end{frame}
+                  
+? 
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.1496 \end{frame}
+                  
+? 
+[93
+
+ <./Figures/Zemelo_2.png> <./Figures/Zemelo_3.png>]
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.1498 \section{iii. Optimal swimming of fishes}
+                                                
+? 
+[94
+
+]
+
+! LaTeX Error: Environment figure* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1508 \end{frame}
+                  
+? 
+<Figures/fish_article2.png, id=3167, 568.1225pt x 233.87375pt>
+File: Figures/fish_article2.png Graphic file (type png)
+<use Figures/fish_article2.png>
+Package pdftex.def Info: Figures/fish_article2.png  used on input line 1508.
+(pdftex.def)             Requested size: 325.17949pt x 133.86967pt.
+
+! LaTeX Error: \begin{beamer@framepauses} on input line 1508 ended by \end{figu
+re*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1508 \end{frame}
+                  
+? 
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.1508 \end{frame}
+                  
+? 
+[95
+
+ <./Figures/fish_article2.png>]
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.1510 \section{iv. Control of chaotic systems}
+                                               
+? 
+[96
+
+]
+
+! LaTeX Error: Environment figure* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1525 \end{frame}
+                  
+? 
+<Figures/ControlChaoticSystemsIllustration.pdf, id=3222, 344.9688pt x 219.7008p
+t>
+File: Figures/ControlChaoticSystemsIllustration.pdf Graphic file (type pdf)
+<use Figures/ControlChaoticSystemsIllustration.pdf>
+Package pdftex.def Info: Figures/ControlChaoticSystemsIllustration.pdf  used on
+ input line 1525.
+(pdftex.def)             Requested size: 256.72147pt x 163.51135pt.
+
+! LaTeX Error: \begin{beamer@framepauses} on input line 1525 ended by \end{figu
+re*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1525 \end{frame}
+                  
+? 
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.1525 \end{frame}
+                  
+? 
+[97
+
+ <./Figures/ControlChaoticSystemsIllustration.pdf>]
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.1530 \section{v. Control of AUVs}
+                                   
+? 
+[98
+
+]
+
+! LaTeX Error: Environment figure* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1541 \end{frame}
+                  
+? 
+<Figures/PID_vs_PPO_attitude_control.pdf, id=3285, 254.63129pt x 182.84311pt>
+File: Figures/PID_vs_PPO_attitude_control.pdf Graphic file (type pdf)
+<use Figures/PID_vs_PPO_attitude_control.pdf>
+Package pdftex.def Info: Figures/PID_vs_PPO_attitude_control.pdf  used on input
+ line 1541.
+(pdftex.def)             Requested size: 256.72147pt x 184.34644pt.
+
+! LaTeX Error: \begin{beamer@framepauses} on input line 1541 ended by \end{figu
+re*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1541 \end{frame}
+                  
+? 
+
+Overfull \vbox (10.81335pt too high) detected at line 1541
+ []
+
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.1541 \end{frame}
+                  
+? 
+[99
+
+ <./Figures/PID_vs_PPO_attitude_control.pdf>]
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.1545 \section{vi. Control of glider}
+                                      
+? 
+[100
+
+]
+
+! LaTeX Error: Environment figure* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1556 \end{frame}
+                  
+? 
+<Figures/soaring_glider.pdf, id=3346, 265.59225pt x 246.07936pt>
+File: Figures/soaring_glider.pdf Graphic file (type pdf)
+<use Figures/soaring_glider.pdf>
+Package pdftex.def Info: Figures/soaring_glider.pdf  used on input line 1556.
+(pdftex.def)             Requested size: 188.26346pt x 174.4397pt.
+
+! LaTeX Error: \begin{beamer@framepauses} on input line 1556 ended by \end{figu
+re*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1556 \end{frame}
+                  
+? 
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.1556 \end{frame}
+                  
+? 
+[101
+
+ <./Figures/soaring_glider.pdf>]
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.1559 \section{vii. Optimal design of missiles}
+                                                
+? 
+[102
+
+]
+
+! LaTeX Error: Environment figure* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1569 \end{frame}
+                  
+? 
+<Figures/MissileOptimization.png, id=3413, 476.982pt x 338.2236pt>
+File: Figures/MissileOptimization.png Graphic file (type png)
+<use Figures/MissileOptimization.png>
+Package pdftex.def Info: Figures/MissileOptimization.png  used on input line 15
+69.
+(pdftex.def)             Requested size: 325.17949pt x 230.5825pt.
+
+! LaTeX Error: \begin{beamer@framepauses} on input line 1569 ended by \end{figu
+re*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1569 \end{frame}
+                  
+? 
+
+Overfull \vbox (42.8411pt too high) detected at line 1569
+ []
+
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.1569 \end{frame}
+                  
+? 
+[103
+
+ <./Figures/MissileOptimization.png>]
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.1571 \section{viii. Growing interest}
+                                       
+? 
+[104
+
+]
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.1602 \end{frame}
+                  
+? 
+[105
+
+]
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.1604 \section{Conclusion}
+                           
+? 
+[106
+
+]
+
+! LaTeX Error: Environment figure* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1624 \end{frame}
+                  
+? 
+<Figures/fixed_last.pdf, id=3523, 251.74051pt x 98.2872pt>
+File: Figures/fixed_last.pdf Graphic file (type pdf)
+<use Figures/fixed_last.pdf>
+Package pdftex.def Info: Figures/fixed_last.pdf  used on input line 1624.
+(pdftex.def)             Requested size: 239.60567pt x 93.55075pt.
+
+! LaTeX Error: \begin{beamer@framepauses} on input line 1624 ended by \end{figu
+re*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1624 \end{frame}
+                  
+? 
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.1624 \end{frame}
+                  
+? 
+[107
+
+ <./Figures/fixed_last.pdf>]
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.1653 \end{frame}
+                  
+? 
+[108
+
+]
+Overfull \vbox (4.65868pt too high) detected at line 1687
+ []
+
+! Undefined control sequence.
+<recently read> \beamer 
+                        
+l.1687 \end{frame}
+                  
+? 
+[109
+
+]
+\tf@nav=\write6
+\openout6 = `TemplateBeamer.nav'.
+
+\tf@toc=\write7
+\openout7 = `TemplateBeamer.toc'.
+
+\tf@snm=\write8
+\openout8 = `TemplateBeamer.snm'.
+
+
+
+Package caption Warning: Unused \captionsetup[figure] on input line 75.
+See the caption package documentation for explanation.
+
+
+Package caption Warning: Unused \captionsetup[table] on input line 76.
+See the caption package documentation for explanation.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1690.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1690.
+(./TemplateBeamer.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1690.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1690.
+
+Package rerunfilecheck Info: File `TemplateBeamer.out' has not changed.
+(rerunfilecheck)             Checksum: 44B70A2A2DE8683DE74912FB1A4E6C2C;1292.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 34964 strings out of 492982
+ 685061 string characters out of 6134897
+ 774568 words of memory out of 5000000
+ 37594 multiletter control sequences out of 15000+600000
+ 542447 words of font info for 66 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 56i,18n,59p,10377b,1538s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmssi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+sy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb
+></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on TemplateBeamer.pdf (109 pages, 23172592 bytes).
+PDF statistics:
+ 3719 PDF objects out of 4296 (max. 8388607)
+ 3188 compressed objects within 32 object streams
+ 241 named destinations out of 1000 (max. 500000)
+ 728 words of extra memory for PDF output out of 10000 (max. 10000000)
+
