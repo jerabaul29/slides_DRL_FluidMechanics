@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.8.9)  6 NOV 2020 08:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.8.9)  6 NOV 2020 08:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3913,37 +3913,6 @@ l.1706 \end{frame}
 l.1706 \end{frame}
                   
 ? 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.1706 \end{frame}
-                  
-? 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.1706 \end{frame}
-                  
-? 
-! Missing } inserted.
-<inserted text> 
-                }
-l.1706 \end{frame}
-                  
-? 
-
-Overfull \hbox (274.01659pt too wide) in paragraph at lines 1706--1706
-\OT1/cmss/m/n/10.95 https://www.researchgate.net/publication/343934046$[]\OT1/m
-athkerncmss/m/sl/10.95 EEP[]EINFORCEMENT[]EARNING[]PPLIED[]O[]CTIVE[]LOW[]ONTRO
-L[]$  
- []
-
-! Extra }, or forgotten \endgroup.
-\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
-                                                  \fi 
-l.1706 \end{frame}
-                  
-? 
 
 ! LaTeX Error: \begin{\itemize} on input line 1706 ended by \end{itemize}.
 
@@ -4016,10 +3985,10 @@ sfonts/cm/cmssi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
 sy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb
 ></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on TemplateBeamer.pdf (110 pages, 23175481 bytes).
+Output written on TemplateBeamer.pdf (110 pages, 23176864 bytes).
 PDF statistics:
- 3746 PDF objects out of 4296 (max. 8388607)
- 3213 compressed objects within 33 object streams
+ 3754 PDF objects out of 4296 (max. 8388607)
+ 3221 compressed objects within 33 object streams
  243 named destinations out of 1000 (max. 500000)
  728 words of extra memory for PDF output out of 10000 (max. 10000000)
 
